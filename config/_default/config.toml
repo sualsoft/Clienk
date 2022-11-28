@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'City Guide | WebSite'
+
+DefaultContentLanguage = "en"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  year = "year"
+	month = "month"
+
+[outputs]
+    home = [ "HTML", "JSON", "RSS"]

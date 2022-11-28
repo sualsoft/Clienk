@@ -1,0 +1,20 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = 'Resturants'
+url = '/resturants'
+weight = 2
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 4
