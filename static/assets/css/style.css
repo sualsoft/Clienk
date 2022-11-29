@@ -98,7 +98,7 @@ h6 {
 --------------------------------------------------------------*/
 .get-started-btn {
   margin-left: 30px;
-  background: #e03a3c;
+  background: #d9115b;
   color: #fff;
   border-radius: 4px;
   padding: 8px 25px;
@@ -161,7 +161,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #e03a3c;
+  color: #d9115b;
 }
 .navbar .dropdown ul {
   display: block;
@@ -190,7 +190,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  color: #e03a3c;
+  color: #d9115b;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -278,7 +278,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
-  color: #e03a3c;
+  color: #d9115b;
 }
 .navbar-mobile .getstarted,
 .navbar-mobile .getstarted:focus {
@@ -405,7 +405,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #e03a3c;
+  background: #d9115b;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -467,7 +467,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #e03a3c;
+  color: #d9115b;
   content: "/";
 }
 
@@ -483,10 +483,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e03a3c;
+  border: 1px solid #d9115b;
 }
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e03a3c;
+  background-color: #d9115b;
 }
 .clients .swiper-slide img {
   opacity: 0.5;
@@ -869,7 +869,7 @@ section {
   font-weight: 700;
 }
 #footer .footer-top .footer-contact h3 span {
-  color: #e03a3c;
+  color: #d9115b;
 }
 #footer .footer-top .footer-contact p {
   font-size: 14px;
@@ -892,7 +892,7 @@ section {
   display: block;
   width: 20px;
   height: 2px;
-  background: #e03a3c;
+  background: #d9115b;
   bottom: 0;
   left: 0;
 }
@@ -959,12 +959,12 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #e03a3c;
+  background: #d9115b;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #e35052;
+  background: #e55c8e;
 }
