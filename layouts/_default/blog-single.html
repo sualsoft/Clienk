@@ -1,0 +1,56 @@
+{{ define "main"}}
+<!-- ======= Breadcrumbs ======= -->
+<section class="breadcrumbs">
+  <div class="container pt-5">
+    <ol>
+      <li><a href="/">Home</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li>{{.Title}}</li>
+    </ol>
+    <h2>{{.Title}}</h2>
+  </div>
+</section>
+<!-- End Breadcrumbs -->
+
+<!-- ======= Blog Single Section ======= -->
+<section id="blog" class="blog">
+  <div class="container" data-aos="fade-up">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 entries">
+        <article class="entry entry-single">
+          <div class="entry-img">
+            <img
+              src="{{with .Params.image}}{{.}}{{end}}"
+              alt=""
+              class="img-fluid"
+            />
+          </div>
+
+          <h2 class="entry-title">
+            <a href="#entry-content">{{.Title}}</a>
+          </h2>
+
+          <div class="entry-meta">
+            <ul>
+              <li class="d-flex align-items-center">
+                <i class="bi bi-clock"></i>
+                <a
+                  ><time datetime="2020-01-01"
+                    >{{ .Date | time.Format ":date_long" }}</time
+                  ></a
+                >
+              </li>
+            </ul>
+          </div>
+
+          <div id="entry-content" class="entry-content">{{.Content}}</div>
+        </article>
+        <!-- End blog entry -->
+      </div>
+      <!-- End blog entries list -->
+    </div>
+  </div>
+</section>
+<!-- End Blog Single Section -->
+
+{{end}}

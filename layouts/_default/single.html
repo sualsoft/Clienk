@@ -96,6 +96,32 @@
 {{end}}
 <!-- End BOX Section -->
 
+<!-- ======= BOX Section ======= -->
+{{with .Params.squre_box}}
+<!---->
+{{if .enable}}
+<section class="boxer">
+  <div class="container" data-aos="zoom-in">
+    <div class="row">
+      {{range .items}}
+      <div class="col-md-6 mt-4 d-flex align-items-stretch">
+        <div class="box-item text-start p-5">
+          <img src="{{.icon}}" alt="Image" class="img-fluid" />
+          <div>
+            <h3>{{.title}}</h3>
+            <p>{{.content}}</p>
+          </div>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</section>
+{{end}}
+<!---->
+{{end}}
+<!-- End BOX Section -->
+
 <!-- ======= Clients Section ======= -->
 {{ with .Params.partners }}
 <!---->
@@ -150,6 +176,24 @@
               data-aos-delay="100"
             >
               <i class="{{.icon}}"></i>
+              <h4>{{.title}}</h4>
+              <p>{{.content}}</p>
+              <ul>
+                {{range.list}}
+                <li>{{.}}</li>
+                {{end}}
+              </ul>
+            </div>
+            {{end}}
+
+            <!--style 2-->
+            {{ range .items2}}
+            <div
+              class="col-md-6 d-flex align-items-center icon-box"
+              data-aos="fade-up"
+              data-aos-delay="100"
+            >
+              <i class="{{.icon}} p-3"></i>
               <h4>{{.title}}</h4>
               <p>{{.content}}</p>
               <ul>
