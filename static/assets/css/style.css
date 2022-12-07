@@ -477,6 +477,7 @@ section {
 .clients .swiper-pagination {
   margin-top: 20px;
   position: relative;
+  display: none;
 }
 .clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;

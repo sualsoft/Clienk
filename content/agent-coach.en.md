@@ -1,6 +1,6 @@
 ---
 #seo
-title: "Livecom - AI powered all channel customer service platform"
+title: "Clienk - AI powered all channel customer service platform"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
@@ -109,7 +109,7 @@ partners:
 #testimonial
 about:
   title: NEED MORE?
-  content: We’ve got you covered. We know, communication is not always on live chat. Livecom also lets you attend to your social media comments and ask for some feedback to your customers without having to use any other tool
+  content: We’ve got you covered. We know, communication is not always on live chat. Clienk also lets you attend to your social media comments and ask for some feedback to your customers without having to use any other tool
   btn_label: Request a Demo
   btn_link: /
 

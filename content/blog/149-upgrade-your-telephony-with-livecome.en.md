@@ -1,6 +1,6 @@
 ---
 layout: blog-single
-title: "UPGRADE YOUR TELEPHONY WITH LIVECOM"
+title: "UPGRADE YOUR TELEPHONY WITH Clienk"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
@@ -21,17 +21,13 @@ image: /assets/img/blog/blog-4.jpg
 date: 2020-11-13
 ---
 
-**Livecom announces major product enhancement.**
+**Clienk announces major product enhancement.**
 
- 
-
-Livecom recently developed a major product enhancement that makes the Livecom suite truly omni-channel. By launching a fully integrated PBX with IVR and agent desktop integration, brands and call centers can now serve their customers also on the telephony channel. The product supports **Inbound calls**, **Outbound** **calls** and **Voicemail** all flowing through the unique unified session distribution and queueing system.
-
-
+Clienk recently developed a major product enhancement that makes the Clienk suite truly omni-channel. By launching a fully integrated PBX with IVR and agent desktop integration, brands and call centers can now serve their customers also on the telephony channel. The product supports **Inbound calls**, **Outbound** **calls** and **Voicemail** all flowing through the unique unified session distribution and queueing system.
 
 **Inbound & Outbound calls**
 
-An inbound call is when a customer initiates a call to the brand or their outsourced contact center. **Agents may handle either inbound or outbound calls exclusively or might deal with a combination of the two. Both are supported by Livecom's new telephone module.**
+An inbound call is when a customer initiates a call to the brand or their outsourced contact center. **Agents may handle either inbound or outbound calls exclusively or might deal with a combination of the two. Both are supported by Clienk's new telephone module.**
 
 Inbound call center agent performance is measured according to several metrics, including first call resolution(FCR), average handle time(AHT), after call work(ACW)and time in queue.
 
@@ -39,11 +35,7 @@ Outbound calls are calls that are initiated by an agent either by manually enter
 
 Uploading call lists for telemarketing purposes will be supported by the end of 2020.
 
- 
-
 Live examples of our Inbound and Outbound calling
-
- 
 
 **Inbound:**
 
@@ -55,21 +47,17 @@ after the agent accepts, this is how the agent desktop looks like :
 
 ![t2](/assets/img/blog/t2.png)
 
-if a user from another channel (example. Wechat) enters Livecom, and Livecom identifies they have the same phone number, Livecom can merge those 2 contacts and will merge the history and previous conversations. Once the user is merged, the agent can decide to call directly by clicking on the phone icon: 
+if a user from another channel (example. Wechat) enters Clienk, and Clienk identifies they have the same phone number, Clienk can merge those 2 contacts and will merge the history and previous conversations. Once the user is merged, the agent can decide to call directly by clicking on the phone icon:
 
 ![t3](/assets/img/blog/t3.png)
 
- 
-
 **Outbound:**
 
- 
-
-Let’s make an outbound call for an outbound call, the agent can type the number manually from the dialpad 
+Let’s make an outbound call for an outbound call, the agent can type the number manually from the dialpad
 
 ![t4](/assets/img/blog/t4.png)
 
-the agent can choose from which outbound number to call the customer, if Livecom recognizes that the new outbound call is going to an existing merged customer, it will show the profile of that customer:
+the agent can choose from which outbound number to call the customer, if Clienk recognizes that the new outbound call is going to an existing merged customer, it will show the profile of that customer:
 
 ![t5](/assets/img/blog/t5.png)
 
@@ -81,11 +69,7 @@ once the agent finishes a call, he will need to wrap up the session (he might ne
 
 ![t7](/assets/img/blog/t7.png)
 
- 
-
- **IVR & ACD**
-
- 
+**IVR & ACD**
 
 An IVR (interactive voice response) system is automated software that provides pre-recorded messages (choices) and collects responses from the caller.
 
@@ -101,24 +85,12 @@ So, while they may perform different functions, they work seamlessly together.
 
 ![640](/assets/img/blog/640.webp)
 
- 
-
-
-
 **Unified queue**
-
-
-
-
 
 The call queues and the other media (Chat, E-Mail, Messaging) queues can all be routed through a unified routing plan controlled by skills, skill Levels and queue prioritization.![666](/assets/img/blog/666.png)
 
- 
+**Voice mail**
 
-
-
- **Voice mail**
-
-Customers can be given the option to leave voicemail in the IVR outside the opening hours or while waiting in the queue (all configurable from the Livecom backend). The voicemail messages will be placed in the unified queue with the priority configured so that those voicemails will be routed to the next available agent when online.
+Customers can be given the option to leave voicemail in the IVR outside the opening hours or while waiting in the queue (all configurable from the Clienk backend). The voicemail messages will be placed in the unified queue with the priority configured so that those voicemails will be routed to the next available agent when online.
 
 Customers can either choose an inhouse hardware PBX or Cloud based PBX, it all depends on your wishes, technical infrastructure and/or call and agent volume.

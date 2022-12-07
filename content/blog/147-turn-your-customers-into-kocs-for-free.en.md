@@ -23,15 +23,11 @@ date: 2020-11-20
 
 **How to keep your existing customers shopping?**
 
- 
-
 Did you know that acquiring a new customer costs 6 times more than retaining a customer?It is important to ensure that customers are always happy, even when they experience a problem.Investigation shows that brands that give high-quality customer service also have a higher customer satisfaction score!
 
 ![img](/assets/img/blog/blog-post.jpg)
 
 Our CEO once said ‘Never let your customers leave without the smile as they walk out of your store’
-
- 
 
 **WHAT IS NPS？**
 
@@ -47,11 +43,7 @@ Online shopping is surely a very pleasant thing to do, but I also believe there 
 
 It makes me unhappy and I don't want to shop with them anymore.
 
- 
-
 **So, how to fix this?**
-
- 
 
 Optimize your customer service and make it high quality and fast!
 
@@ -63,8 +55,6 @@ Market investigation also shows that smart, fast and good customer service retai
 
 Every single time a customer leaves you with a bad feeling, you need to spend 6 fold the acquisition costs the next day to get 1 back…
 
- 
+**\*NPS Examples on Website Chat\***
 
-***NPS Examples on Website Chat\***
-
-![Picture10](https://www.livecom.cn/images/pictures/Picture10.jpg)
+![Picture10](https://www.Clienk.cn/images/pictures/Picture10.jpg)

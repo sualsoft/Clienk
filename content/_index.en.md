@@ -2,7 +2,7 @@
 layout: home
 
 #seo
-title: "Livecom - AI powered all channel customer service platform"
+title: "Clienk - AI powered all channel customer service platform"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
@@ -23,7 +23,7 @@ tags:
 hero:
   enable: true
   title: "ONE AI POWERED CUSTOMER CARE APPLICATION FOR ALL YOUR CONSUMER ENGAGEMENTS"
-  content: Drive loyalty and growth at every stage of your customer support lifecycle with Livecom
+  content: Drive loyalty and growth at every stage of your customer support lifecycle with Clienk
   image: /assets/img/hero.svg
   button:
     enable: true
@@ -80,32 +80,32 @@ details:
       content: "Talk to anyone, anywhere, anytime? Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps. Connect all conversations in one single online interface."
       image: /assets/img/home-live-chat.svg
       color: blue-color #blue-color, pink-color, orange-color,
-      btn_link: /
-      btn_label: Contact Us
+      btn_link: /contact-center/
+      btn_label: Contact Center
 
     - right: false #true or false
       title: ENGAGE WITH YOUR CUSTOMERS WHEREVER THEY ARE
       content: "The right balance between automation and contribution. Your agents can team up with AI Virtual Assistants that will support them along their days of customer care heroes."
       image: /assets/img/home-agent-support.svg
       color: pink-color #blue-color, pink-color, orange-color,
-      btn_link: /
-      btn_label: Contact Us
+      btn_link: /agent-coach/
+      btn_label: Agent Coach
 
     - right: true #true or false
       title: OVER 150 COPC BASED REPORTS WILL UNCOVER ANY DETAILS
       content: "Check agents availablity, customers queue time, average response times, resolution times, and many more detailed reports. All exportable and presentable with ready made charts and statistics."
       image: /assets/img/home-reports.svg
       color: blue-color #blue-color, pink-color, orange-color,
-      btn_link: /
-      btn_label: Contact Us
+      btn_link: /real-time-reporting/
+      btn_label: Reporting
 
     - right: false #true or false
       title: MICROSEGMENT YOUR CUSTOMERS TO REALLY UNDERSTAND WHO THEY ARE
       content: "Leverage your customer support data. Learn from your conversations and add tags to their customer profile automatically thanks to AI listening."
       image: /assets/img/home-profiling.svg
       color: orange-color #blue-color, pink-color, orange-color,
-      btn_link: /
-      btn_label: Contact Us
+      btn_link: /customer-profiling/
+      btn_label: Customer Profiling
 
 #partners
 partners:
