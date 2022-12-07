@@ -145,4 +145,7 @@ about:
         - Comments on all your ad posts
         - Reactions and comments to your stories.
       icon: bi bi-chat-left-dots-fill
+
+contact:
+  enable: true
 ---
