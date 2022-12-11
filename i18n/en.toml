@@ -1,0 +1,32 @@
+[helps]
+other = "helps"
+
+[achieve]
+other="to achieve"
+
+[channel]
+other = "Channel Implementations"
+
+[location]
+other = "Location"
+
+[email]
+other = "E-mail"
+
+[call]
+other = "Call"
+
+[yourName]
+other = "Your Name"
+
+[Youremail]
+other = "Your Email"
+
+[subject]
+other = "Subject"
+
+[message]
+other = "Message"
+
+[sendmessage]
+other = "Send Message"

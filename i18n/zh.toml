@@ -1,0 +1,32 @@
+[helps]
+other = "帮助"
+
+[achieve]
+other="实现"
+
+[channel]
+other = "渠道实现"
+
+[location]
+other = "地点"
+
+[email]
+other = "电子邮件"
+
+[call]
+other = "称呼"
+
+[yourName]
+other = "你的名字"
+
+[Youremail]
+other = "你的邮件"
+
+[subject]
+other = "主题"
+
+[message]
+other = "信息"
+
+[sendmessage]
+other = "发信息"
