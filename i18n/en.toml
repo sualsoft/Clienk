@@ -30,3 +30,25 @@ other = "Message"
 
 [sendmessage]
 other = "Send Message"
+
+[readmore]
+other = "Read More"
+
+[contact]
+other = "Contact Center"
+
+[agent]
+other = "Agent Coach"
+
+[report]
+other = "Reporting"
+
+[customer]
+other = "Customer profiling"
+
+[blog]
+other = "Blog"
+
+[demo]
+other = "Request a Demo"
+

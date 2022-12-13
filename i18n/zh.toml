@@ -30,3 +30,27 @@ other = "信息"
 
 [sendmessage]
 other = "发信息"
+
+[readmore]
+other = "阅读更多"
+
+[contact]
+other = "呼叫中心"
+
+[agent]
+other = "客服教练"
+
+[report]
+other = "报告"
+
+[customer]
+other = "客户分析"
+
+[blog]
+other = "Blog"
+
+[demo]
+other = "寻求演示"
+
+[ad]
+other = "上海市长宁区华山路868弄6号总统公寓D座B0室"
