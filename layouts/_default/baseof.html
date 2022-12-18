@@ -15,7 +15,42 @@
 
   <body>
     <!-- ======= Header ======= -->
-    {{ partial "header.html"}}
+    <header id="header" class="fixed-top d-flex align-items-center">
+      <div class="container d-flex align-items-center">
+        <a href="{{ site.BaseURL | absLangURL }}" class="logo me-auto"
+          ><img src="/assets/img/logo.png" alt="Logo"
+        /></a>
+
+        <nav id="navbar" class="navbar order-last order-lg-0">
+          <ul>
+            {{ range .Site.Menus.main -}}
+            <li>
+              <a class="nav-link scrollto" href="{{ .URL | absLangURL }}"
+                >{{ .Name }}</a
+              >
+            </li>
+            {{end}}
+            <li>
+              <a href="/zh" class="p-3"
+                ><img src="/assets/img/zh_cn.gif" alt="En" />
+              </a>
+            </li>
+            <li>
+              <a href="/" class="p-3"
+                ><img src="/assets/img/en_gb.gif" alt="En" />
+              </a>
+            </li>
+          </ul>
+          <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav>
+        <!-- .navbar -->
+
+        <a href="/request-a-demo" class="get-started-btn scrollto"
+          >{{ i18n "demo" .}}</a
+        >
+      </div>
+    </header>
+
     <!-- End Header -->
 
     <main id="main">

@@ -1,20 +1,25 @@
 # main menu
 [[main]]
-name = "Home"
-url = "/zh/"
+name = "呼叫中心"
+url = "/zh/contact-center"
 weight = 1
 
 [[main]]
-name = 'Resturants'
-url = '/zh/resturants'
+name = '客服教练'
+url = '/zh/agent-coach'
 weight = 2
 
 [[main]]
-name = "About"
-url = "/zh/about"
+name = "报告"
+url = "/zh/real-time-reporting"
 weight = 3
 
 [[main]]
-name = "Blog"
-url = "/zh/blog"
+name = "客户分析"
+url = "/zh/customer-profiling"
 weight = 4
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 5
