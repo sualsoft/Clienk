@@ -1,20 +1,20 @@
 # main menu
 [[main]]
 name = "Home"
-url = "/"
+url = "/zh/"
 weight = 1
 
 [[main]]
 name = 'Resturants'
-url = '/resturants'
+url = '/zh/resturants'
 weight = 2
 
 [[main]]
 name = "About"
-url = "/about"
+url = "/zh/about"
 weight = 3
 
 [[main]]
 name = "Blog"
-url = "/blog"
+url = "/zh/blog"
 weight = 4
