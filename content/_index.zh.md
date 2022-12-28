@@ -23,7 +23,7 @@ tags:
 hero:
   enable: true
   title: "AI,一个支持客户服务应用程序，用于您与消费者所有的互动"
-  content: 在使用Clink的每个阶段，提高客户的忠诚度和创建更好的未来
+  content: 在使用Clienk的每个阶段，提高客户的忠诚度和创建更好的未来
   image: /assets/img/hero.svg
   button:
     enable: true
