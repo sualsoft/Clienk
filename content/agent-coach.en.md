@@ -71,10 +71,10 @@ partners:
       name: WECHAT
 
     - logo: /assets/img/social/whatsapp.svg
-      name: BUSINESS WHATSAPP
+      name: WHATSAPP
 
     - logo: /assets/img/social/facebook.svg
-      name: HTML5
+      name: Facebook
 
     - logo: /assets/img/social/html5.svg
       name: HTML5
@@ -86,7 +86,7 @@ partners:
       name: KAOKAO TALK
 
     - logo: /assets/img/social/sinaweibo.svg
-      name: SINA WEIBO
+      name: WEIBO
 
     - logo: /assets/img/social/skype.svg
       name: SKYPE
@@ -101,7 +101,7 @@ partners:
       name: TENCENT QQ
 
     - logo: /assets/img/social/tencentweibo.svg
-      name: TENCENT WEIBO
+      name: WEIBO
 
     - logo: /assets/img/social/twitter.svg
       name: TWITTER

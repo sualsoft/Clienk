@@ -88,10 +88,10 @@ partners:
       name: WECHAT
 
     - logo: /assets/img/social/whatsapp.svg
-      name: BUSINESS WHATSAPP
+      name: WHATSAPP
 
     - logo: /assets/img/social/facebook.svg
-      name: HTML5
+      name: FB
 
     - logo: /assets/img/social/html5.svg
       name: HTML5

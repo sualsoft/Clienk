@@ -22,7 +22,7 @@ hero:
   enable: true
   bg_color: "#3564b1"
   title: "MAKE YOURSELF AVAILABLE. ENGAGE YOUR CUSTOMERS WHEREVER THEY ARE"
-  content: What if you could talk to anyone, anywhere, anytime? Allow your agents to engage customers over telephone, websites, mobile apps, and popular messaging apps and tie all their interactions all together in one unified workspace for your support and sales teams with Clienk.
+  content: What if you could talk to anyone, anywhere, anytime? Allow your agents to engage customers over telephone, websites, mobile apps, e-commerce platforms and popular messaging apps and tie all their interactions all together in one unified workspace for your support and sales teams with Clienk.
   image: /assets/img/livechat-header.svg
   button:
     enable: false
@@ -88,10 +88,10 @@ partners:
       name: WECHAT
 
     - logo: /assets/img/social/whatsapp.svg
-      name: BUSINESS WHATSAPP
+      name: WHATSAPP
 
     - logo: /assets/img/social/facebook.svg
-      name: HTML5
+      name: FB
 
     - logo: /assets/img/social/html5.svg
       name: HTML5
