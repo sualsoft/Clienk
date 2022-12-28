@@ -21,6 +21,7 @@ tags:
 hero:
   enable: true
   bg_color: "#D9115B"
+  height: 80vh
   title: "SEEING IS BELIEVING"
   content: Let's schedule a live demo where we will go through all your questions and show you live how everything plays together
   image: /assets/img/contact-us-header.svg
@@ -31,5 +32,8 @@ hero:
     link: /request-a-demo
 
 contact:
+  enable: true
+
+privacy:
   enable: true
 ---

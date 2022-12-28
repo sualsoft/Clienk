@@ -17,4 +17,7 @@ tags:
     Instagram,
     Line,
   ]
+
+privacy:
+  enable: true
 ---

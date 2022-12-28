@@ -16,6 +16,9 @@ tags:
     Instagram,
     Line,
   ]
+
+privacy:
+  enable: false
 ---
 
 # PRIVACY POLICY

@@ -148,4 +148,7 @@ about:
 
 contact:
   enable: true
+
+privacy:
+  enable: true
 ---

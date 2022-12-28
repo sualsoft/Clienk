@@ -8,7 +8,7 @@
 <section
   id="hero"
   class="d-flex align-items-center justify-content-center pb-0"
-  style="background-color: {{.bg_color}}"
+  style="background-color: {{.bg_color}}; height: {{.height}}"
 >
   <div class="container" data-aos="zoom-out" data-aos-delay="100">
     <div class="row justify-content-center align-items-center">
@@ -310,7 +310,9 @@
 <!---->
 {{end}}
 
-<section class="content mt-5">
+<section
+  class="content mt-5  {{with .Params.privacy}} {{if.enable}} d-none {{end}} {{end}}"
+>
   <div class="container mt-5" data-aos="fade-up">
     <div class="row justify-content-center mt-5">
       <div class="col-lg-9 col-md-10 col-sm-12">{{.Content}}</div>

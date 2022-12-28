@@ -56,4 +56,7 @@ details:
       content: High-end tailor made solutions with their unified communication platform and integrates your CRM, ERP, WFM, OMS seamlessly.
       image: /assets/img/integrate-with-any-api.svg
       color: orange-color #blue-color, pink-color, orange-color,
+
+privacy:
+  enable: true
 ---

@@ -151,4 +151,7 @@ about:
       content:
       list:
       icon: bi bi-patch-check-fill
+
+privacy:
+  enable: true
 ---

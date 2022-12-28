@@ -125,4 +125,7 @@ about:
     - title: TICKET SYSTEM
       content: Got a tough case on the hand? Create a ticket, follow up or delegate the conversation to another department.
       icon: bi bi-ticket-detailed-fill
+
+privacy:
+  enable: true
 ---
