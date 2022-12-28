@@ -1,14 +1,14 @@
-baseURL = 'https://cool-gelato-7d2273.netlify.app'
+baseURL = 'https://clienk.com'
 languageCode = 'en-us'
-title = 'City Guide | WebSite'
+title = 'Clienk.com'
 
 DefaultContentLanguage = "en"
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  year = "year"
-	month = "month"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  year = "year"
+#	month = "month"
 
-[outputs]
-    home = [ "HTML", "JSON", "RSS"]
+#[outputs]
+#    home = [ "HTML", "JSON", "RSS"]

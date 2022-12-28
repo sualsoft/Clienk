@@ -22,7 +22,7 @@ hero:
   enable: true
   bg_color: "#D9115B"
   title: "SEEING IS BELIEVING"
-  content: Let's schedule a live demo where we will go through all your questions and show you live how everything plays together
+  content: Let's schedule a live demo where we will go through all your questions and show you live how everything plays together, just scroll down and fill out the form!
   image: /assets/img/contact-us-header.svg
   button:
     enable: false

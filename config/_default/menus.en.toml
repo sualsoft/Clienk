@@ -30,7 +30,7 @@ name = "Home"
 url = "/"
 
 [[footer_left]]
-name = "CONTACT CENTER"
+name = "Contact Center"
 url = "contact-center"
 
 [[footer_left]]
@@ -47,13 +47,13 @@ url = "customer-profiling"
 
 # footer menu right
 [[footer_right]]
-name = "ABOUT CLINK"
+name = "About Clienk"
 url = "about-clienk"
 
 [[footer_right]]
-name = "CONTACT US"
+name = "Contact Us"
 url = "contact-us"
 
 [[footer_right]]
-name = "PRIVACY POLICY"
+name = "Privacy Policy"
 url = "privacy-policy"
