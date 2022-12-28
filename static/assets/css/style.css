@@ -1,8 +1,61 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@font-face {
+  font-family: "Open Sans";
+  src: url(/assets/fonts/opan-sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url(/assets/fonts/opan-sans/OpenSans-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url(/assets/fonts/poppins/Poppins-Medium.ttf);
+  ont-weight: 600;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url(/assets/fonts/poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url(/assets/fonts/poppins/Poppins-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url(/assets/fonts/raleway/Raleway-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url(/assets/fonts/raleway/Raleway-Regular.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url(/assets/fonts/raleway/Raleway-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url(/assets/fonts/raleway/Raleway-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url(/assets/fonts/raleway/Raleway-Medium.ttf);
+  font-weight: 600;
+}
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans";
   color: #444444;
 }
 
@@ -22,7 +75,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
 }
 
 /*--------------------------------------------------------------
@@ -81,7 +134,7 @@ h6 {
   margin: 0;
   padding: 0;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
 }
 #header .logo a {
   color: #111111;
@@ -144,7 +197,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   font-size: 15px;
   font-weight: 600;
   color: #111111;
@@ -334,9 +387,11 @@ h6 {
   color: #fff;
   margin: 10px 0 0 0;
   font-size: 18px;
+  font-family: "Raleway";
+  font-weight: 600;
 }
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -680,7 +735,7 @@ section {
   color: #a8a8a8;
   padding: 0;
   margin: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   font-size: 14px;
 }
 /*-------------------------------------------------------------
@@ -688,7 +743,7 @@ section {
 --------------------------------------------------------------*/
 
 .details h2 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   font-size: 32px;
   font-weight: 700;
 }
@@ -1252,6 +1307,26 @@ section {
   margin-bottom: 30px;
 }
 
+.content h1 {
+  color: #3564b1;
+  font-weight: bold;
+  font-family: "Open Sans";
+  margin-bottom: 16px;
+  font-size: 32px;
+}
+
+.content h2 {
+  color: #3564b1;
+  font-weight: bold;
+  font-family: "Open Sans";
+  margin-bottom: 16px;
+  font-size: 26px;
+}
+.content p {
+  padding: 12px 0px;
+  color: #666;
+  font-family: "Open Sans";
+}
 /*--------------------------------------------------------------
 # Recent Blog Posts
 --------------------------------------------------------------*/
@@ -1368,7 +1443,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
 }
 #footer .footer-top img {
   width: 120px;

@@ -23,3 +23,37 @@ weight = 4
 name = "Blog"
 url = "/blog"
 weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "Home"
+url = "/"
+
+[[footer_left]]
+name = "CONTACT CENTER"
+url = "contact-center"
+
+[[footer_left]]
+name = "Agent Coach"
+url = "agent-coach"
+
+[[footer_left]]
+name = "Reporting"
+url = "real-time-reporting"
+
+[[footer_left]]
+name = "Customer Profiling"
+url = "customer-profiling"
+
+# footer menu right
+[[footer_right]]
+name = "ABOUT CLINK"
+url = "about-clink"
+
+[[footer_right]]
+name = "CONTACT US"
+url = "contact-us"
+
+[[footer_right]]
+name = "PRIVACY POLICY"
+url = "privacy-policy"

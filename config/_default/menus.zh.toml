@@ -23,3 +23,37 @@ weight = 4
 name = "Blog"
 url = "/blog"
 weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "主页"
+url = "zh/"
+
+[[footer_left]]
+name = "呼叫中心"
+url = "zh/contact-center"
+
+[[footer_left]]
+name = "客服教练"
+url = "zh/agent-coach"
+
+[[footer_left]]
+name = "报告"
+url = "zh/real-time-reporting"
+
+[[footer_left]]
+name = "客户分析"
+url = "zh/customer-profiling"
+
+# footer menu right
+[[footer_right]]
+name = "关于CLINK"
+url = "zh/about-clink"
+
+[[footer_right]]
+name = "联系我们"
+url = "zh/contact-us"
+
+[[footer_right]]
+name = "隐私政策"
+url = "zh/privacy-policy"

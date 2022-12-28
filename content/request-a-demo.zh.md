@@ -21,8 +21,8 @@ tags:
 hero:
   enable: true
   bg_color: "#D9115B"
-  title: "SEEING IS BELIEVING"
-  content: Let's schedule a live demo where we will go through all your questions and show you live how everything plays together
+  title: "眼见为实，看得见的才是真的"
+  content: 让我们为您安排一次现场演示， 我们将为您解答所有的问题， 并告诉你如何将一切做到最完美的结合
   image: /assets/img/contact-us-header.svg
   button:
     enable: false

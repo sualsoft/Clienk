@@ -52,3 +52,11 @@ other = "Blog"
 [demo]
 other = "Request a Demo"
 
+[newslatter]
+other = "Join Our Newsletter"
+
+[one]
+other = "One single AI-powered web app for all your customer care."
+
+[subscribe]
+other = "Subscribe"

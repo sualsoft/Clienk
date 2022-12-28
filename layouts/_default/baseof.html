@@ -30,22 +30,26 @@
               >
             </li>
             {{end}}
-            <li>
-              <a href="/zh" class="p-3"
-                ><img src="/assets/img/zh_cn.gif" alt="En" />
+            <!---->
+            <style>
+              .language:last-child {
+                display: none !important;
+              }
+            </style>
+            <!---->
+            {{ range $.Site.Home.AllTranslations }}
+            <li class="language">
+              <a href="{{ .Permalink }}" class="p-3"
+                ><img src="/assets/img/{{ .Language.Params.flag }}" alt="En" />
               </a>
             </li>
-            <li>
-              <a href="/" class="p-3"
-                ><img src="/assets/img/en_gb.gif" alt="En" />
-              </a>
-            </li>
+            {{ end }}
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
         </nav>
         <!-- .navbar -->
 
-        <a href="/request-a-demo" class="get-started-btn scrollto"
+        <a href="{{.Site.Params.btn_link}}" class="get-started-btn scrollto"
           >{{ i18n "demo" .}}</a
         >
       </div>
@@ -61,7 +65,86 @@
     <!-- End #main -->
 
     <!-- ======= Footer ======= -->
-    {{partial "footer.html"}}
+    <footer id="footer" class="footer">
+      <div class="cta">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-12 text-center">
+              <p>{{.Site.Params.footer_subtitle}}</p>
+              <h4>{{.Site.Params.footer_title}}</h4>
+            </div>
+            <div class="col-lg-6 text-center mt-4">
+              <a href="{{.Site.Params.btn_link}}">{{.Site.Params.btn}}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3 col-md-6 footer-contact">
+              <img
+                src="/assets/img/logo.png"
+                alt="Logo"
+                class="img-fluid mb-3"
+              />
+              <p>
+                {{.Site.Params.footer_address | safeHTML}}
+                <br />
+                <strong>Phone:</strong> +86 187 1772 8845<br />
+              </p>
+            </div>
+
+            <div class="col-lg-2 col-md-6 footer-links">
+              <ul>
+                {{ range site.Menus.footer_left }}
+                <li>
+                  <i class="bx bx-chevron-right"></i>
+                  <a href="{{ .URL | relLangURL }}" title="{{ .Name }}"
+                    >{{ .Name }}</a
+                  >
+                </li>
+                {{end}}
+              </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-6 footer-links">
+              <ul>
+                {{ range site.Menus.footer_right }}
+                <li>
+                  <i class="bx bx-chevron-right"></i>
+                  <a href="{{ .URL | relLangURL }}" title="{{ .Name }}"
+                    >{{ .Name }}</a
+                  >
+                </li>
+                {{end}}
+              </ul>
+            </div>
+
+            <div class="col-lg-4 col-md-6 footer-newsletter">
+              <h4>{{ i18n "newslatter" .}}</h4>
+              <p>{{ i18n "one" .}}</p>
+              <form action="https://formspree.io/f/meqddzjz" method="post">
+                <input type="email" name="email" /><input
+                  type="submit"
+                  value='{{ i18n "subscribe"}}'
+                />
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container d-md-flex py-4">
+        <div class="me-md-auto text-center text-md-start">
+          <div class="copyright">
+            {{.Site.Params.footer_copy}}
+            <a href="http://www.beian.miit.gov.cn/">沪ICP备18038187号-2</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
     <!-- End Footer -->
 
     {{ partial "script.html"}}

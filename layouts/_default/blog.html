@@ -15,7 +15,8 @@
             />
           </div>
           <span class="post-date"
-            >Written on Tue, {{ .Date | time.Format ":date_long" }}</span
+            >Written on Tue, 
+            {{ .Params.date.Format .Site.Params.dateFormat }}</span
           >
           <h3 class="post-title">{{.Title}}</h3>
           <a href="{{.Permalink}}" class="readmore stretched-link mt-auto"

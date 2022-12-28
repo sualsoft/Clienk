@@ -22,7 +22,7 @@ hero:
   enable: true
   bg_color: "#3564b1"
   title: "让自己更有利用价值。确保无论客户身在何处，都能吸引他们"
-  content: 如果说你能随时随地与任何人交谈呢？允许您的客服通过手机、网站、移动应用和热门消息应用与客户互动，并在一个统一的工作区中将所有频道交互关联在一起支持您的团队，使用 Livecom 即可实现
+  content: 如果说你能随时随地与任何人交谈呢？允许您的客服通过手机、网站、移动应用和热门消息应用与客户互动，并在一个统一的工作区中将所有频道交互关联在一起支持您的团队，使用 Clink 即可实现
   image: /assets/img/livechat-header.svg
   button:
     enable: false
@@ -126,7 +126,7 @@ partners:
 #testimonial
 about:
   title: 更多需要？
-  content: 包在我们身上！我们知道，沟通并不总是在实时聊天。Livecom 还允许您在关注您社交媒体评论的同时，无需使用任何其他工具的情况下，询问您客户的反馈
+  content: 包在我们身上！我们知道，沟通并不总是在实时聊天。Clink 还允许您在关注您社交媒体评论的同时，无需使用任何其他工具的情况下，询问您客户的反馈
   btn_label: 寻求演示
   btn_link: /zh/request-a-demo/
 
