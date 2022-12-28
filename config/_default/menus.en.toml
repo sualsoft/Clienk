@@ -48,7 +48,7 @@ url = "customer-profiling"
 # footer menu right
 [[footer_right]]
 name = "ABOUT CLINK"
-url = "about-clink"
+url = "about-clienk"
 
 [[footer_right]]
 name = "CONTACT US"

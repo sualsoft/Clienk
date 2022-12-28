@@ -48,7 +48,7 @@ url = "zh/customer-profiling"
 # footer menu right
 [[footer_right]]
 name = "关于CLINK"
-url = "zh/about-clink"
+url = "zh/about-clienk"
 
 [[footer_right]]
 name = "联系我们"
