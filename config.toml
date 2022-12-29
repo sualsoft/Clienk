@@ -36,3 +36,7 @@ title = 'My New Hugo Site'
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
