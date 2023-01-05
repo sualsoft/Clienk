@@ -22,9 +22,9 @@ tags:
 
 WRITTEN ON 24 JUNE 2020.
 
-# PRIVACY POLICY FOR Clienk CHINA CO., LTD.
+# PRIVACY POLICY FOR CLIENK
 
-At Clienk, accessible from www.Clienk.cn, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Clienk and how we use it.
+At Clienk, accessible from www.clienk.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Clienk and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
