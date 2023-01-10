@@ -4,11 +4,11 @@ title = 'Clienk.com'
 
 DefaultContentLanguage = "en"
 
-#[taxonomies]
-#  tag = "tags"
-#  category = "categories"
-#  year = "year"
-#	month = "month"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  year = "year"
+	month = "month"
 
-#[outputs]
-#    home = [ "HTML", "JSON", "RSS"]
+[outputs]
+    home = [ "HTML", "JSON", "RSS"]
