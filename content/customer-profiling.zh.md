@@ -56,4 +56,7 @@ details:
       content: 定制高端解决方案及其统一通信平台，无缝连接您的 客户关系管理、网络公关系统、工作流管理联盟、订单管理系统
       image: /assets/img/integrate-with-any-api.svg
       color: orange-color #blue-color, pink-color, orange-color,
+
+privacy:
+  enable: true
 ---

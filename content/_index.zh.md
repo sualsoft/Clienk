@@ -175,4 +175,7 @@ testimonial:
       logo: /assets/img/testimonials/testimonials-3.jpg
       achivement: 高峰时段每分钟 65000 个订单 每天 51000 次互动 每天 3800 个 APP 请求 6000 快递员
       implementations: "微信 + 应用程序聊天"
+
+privacy:
+  enable: true
 ---

@@ -125,4 +125,7 @@ about:
     - title: 票务系统
       content: 手上有个麻烦的案子吗？创建票证、跟进或将对话委派给其他部门
       icon: bi bi-ticket-detailed-fill
+
+privacy:
+  enable: true
 ---

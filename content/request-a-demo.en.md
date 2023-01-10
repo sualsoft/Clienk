@@ -32,4 +32,7 @@ hero:
 
 contact:
   enable: true
+
+privacy:
+  enable: true
 ---

@@ -18,6 +18,9 @@ tags:
   ]
 ---
 
+privacy:
+  enable: true
+
 # PRIVACY POLICY
 
 WRITTEN ON 05 JANUARY 2023.

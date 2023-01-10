@@ -175,4 +175,6 @@ testimonial:
       logo: /assets/img/testimonials/testimonials-3.jpg
       achivement: 65000 order per minute during rush hour 51000 interactions per day 3800 APP requests per day 6000 couriers
       implementations: "WeChat + APP Chat"
----
+      
+privacy:
+  enable: true

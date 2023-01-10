@@ -29,4 +29,7 @@ hero:
     color: "#000"
     label: Request a Demo
     link: /request-a-demo
+
+privacy:
+  enable: true
 ---

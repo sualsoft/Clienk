@@ -19,6 +19,8 @@ tags:
 
 image: /assets/img/blog/blog-5.jpg
 date: 2020-11-20
+privacy:
+  enable: true
 ---
 
 **How to keep your existing customers shopping?**
