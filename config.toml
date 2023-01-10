@@ -31,3 +31,12 @@ title = 'Clienk.com'
     footer_address = "上海市长宁区华山路868弄6号总统公寓D座B0室"
     btn = "寻求演示"
     btn_link = "/zh/request-a-demo"
+    
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
