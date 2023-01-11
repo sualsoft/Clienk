@@ -165,16 +165,22 @@ testimonial:
       achivement: Customer Care implementation in +65 countries across 20 languages +30.000 chats per month Get buyers intent up to 96% through video-streaming
       implementations: "Live Chat + WeChat + Weibo + Video + Philips Home APP Chat"
 
-    - name: K M B
+    - name: KMB
       intro: "The Kowloon Motor Bus Bo. is a global leader in public transport based on three principles: understanding the needs of people we serve, introducing innovative technologies for environmental preservation, and achieving new safety standards and higher efficiencies."
       logo: /assets/img/testimonials/testimonials-2.jpg
-      achivement: 990.1 million passenger rideships Best Smart Hong Kong Award Most Popular Mobile Application Award
+      achivement: 990.1 million passenger rideships, Best Smart Hong Kong Award Most Popular Mobile Application Award
       implementations: "Live Chat + APP Chat"
 
     - name: ELE.ME
       intro: Ele.me which means "Are you hungry?", is China's biggest meal delivery company. China's most popular on-demand meal order app. Ele.me has also upgraded local eateries by equipping them with order management-billing technology, while supplying fresh foods. The expansion of these services from Ele.me is remarkable shaping consumers behaviour.
       logo: /assets/img/testimonials/testimonials-3.jpg
       achivement: 65000 order per minute during rush hour 51000 interactions per day 3800 APP requests per day 6000 couriers
+      implementations: "WeChat + APP Chat"
+
+    - name: Brandy Melville
+      intro: Brandy Melville is a clothing brand that was founded in Italy in 2009 and has since expanded to countries such as the United States, Canada, China and the United Kingdom. The brand is known for its casual and comfortable clothing styles, often featuring vintage-inspired designs. The brand primarily targets young women as its customer base.
+      logo: /assets/img/testimonials/testimonials-4.jpeg
+      achivement: Up to 4500 sessions a day handled by their internal Customer Service teams.
       implementations: "WeChat + APP Chat"
       
 privacy:
