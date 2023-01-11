@@ -179,4 +179,5 @@ testimonial:
       
 privacy:
   enable: true
-  ---
+  
+---
