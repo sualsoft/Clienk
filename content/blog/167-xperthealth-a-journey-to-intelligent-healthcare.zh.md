@@ -28,7 +28,7 @@ date: 2020-12-20
 
 欢迎衡之师加入 Clienk 家族！同时我们也很高兴能够采访到他们的业务发展和客户经理马蒂妮，一起探讨衡之师和 Clienk 的合作旅程。
 
-**![xper](https://www.Clienk.cn/images/xper.png)**
+**![xper](/assets/img/blog/xper.png)**
 
 **\*\*关于衡之师\*\***
 
@@ -38,17 +38,17 @@ date: 2020-12-20
 
 衡之师注重的是为个人和公司提供咨询服务，支持更健康、有意识的生活
 
-![WeChat Image 20210205125558](https://www.Clienk.cn/images/WeChat_Image_20210205125558.jpg)
+![WeChat Image 20210205125558](/assets/img/blog/WeChat_Image_20210205125558.jpg)
 
 人们可以联系他们，询问任何与健康相关的问题，获得上海的医疗保健领域帮助。在 6 年的时间里得到了更多的发展
 
 现在，他们的服务范围从为人们提供健康咨询到为公司及其员工举办与健康相关的研讨会，例如一整天坐在椅子上的姿势不好、对员工健康进行筛查和评估、促进健康生活方式的挑战、以及就健康提供建议以及在哪里可以找到具体的健康建议等主题
 
-![WeChat Image 20210205150111](https://www.Clienk.cn/images/pictures/WeChat_Image_20210205150111.jpg)
+![WeChat Image 20210205150111](/assets/img/blog/WeChat_Image_20210205150111.jpg)
 
 从一方面，他们的目标是让人们过上更健康的生活，而不必担心因健康并发症而错过休闲和工作。此外，通过就如何在自己的工作环境中更好地促进其医疗保健和健康生活方式提供建议，以及帮助雇主分析员工的缺勤模式，衡之师最终旨是在 360 度的视角提供员工健康
 
-![undraw design components 9vy6](https://www.Clienk.cn/images/pictures/undraw_design_components_9vy6.png)
+![undraw design components 9vy6](/assets/img/blog/undraw_design_components_9vy6.png)
 
 衡之师的客服团队分别坐落于上海和荷兰，因为时差他们常面临与不同的客户沟通
 
@@ -72,7 +72,7 @@ date: 2020-12-20
 
 它让新用户清楚地了解衡之师提供什么
 
-![WeChat Image 20210205150638](https://www.Clienk.cn/images/pictures/WeChat_Image_20210205150638.jpg)
+![WeChat Image 20210205150638](/assets/img/blog/WeChat_Image_20210205150638.jpg)
 
 **Clienk 提供的主要功能**
 
@@ -106,7 +106,7 @@ Clienk 是易于使用的平台，帮助提供实时聊天、客户服务（售�
 
 从 2 个通道接收的消息将被收集到 Clienk 工作台进行统一服务，确保不错过通信的每个环节。
 
-**![WeChat Image 20210208122955](https://www.Clienk.cn/images/pictures/WeChat_Image_20210208122955.jpg)\*\*马蒂妮\*\***
+**![WeChat Image 20210208122955](/assets/img/blog/WeChat_Image_20210208122955.jpg)\*\*马蒂妮\*\***
 
 它确实对我们的工作帮助很大，因为我们的所有沟通渠道都连接到一个平台，与消费者的个人资料和聊天记录。我觉得快速回复非常有帮助，特别是当涉及到处理很多实时的消息
 
