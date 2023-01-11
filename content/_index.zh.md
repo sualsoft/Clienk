@@ -176,6 +176,12 @@ testimonial:
       achivement: 高峰时段每分钟 65000 个订单 每天 51000 次互动 每天 3800 个 APP 请求 6000 快递员
       implementations: "微信 + 应用程序聊天"
 
+    - name: Brandy Melville
+      intro: Brandy Melville 是一个服装品牌，于 2009 年在意大利创立，此后扩展到美国、加拿大、中国和英国等国家。 该品牌以其休闲舒适的服装风格而闻名，通常采用复古风格的设计。 该品牌主要以年轻女性为客户群。
+      logo: /assets/img/testimonials/testimonials-4.jpeg
+      achivement: 他们的内部客户服务团队每天处理多达 4500 个会话。
+      implementations: "微信 + 应用程序聊天"
+
 privacy:
   enable: true
 ---
