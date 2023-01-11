@@ -158,6 +158,7 @@ partners:
 testimonial:
   enable: true
   items:
+  
     - name: PHILIPS
       intro: Philips is a leading health technology company focused on improving peoples health and enabling better outcomes which engages in the healthcare, lighting and consumer well-being markets.
       logo: /assets/img/testimonials/testimonials-1.jpg
