@@ -70,21 +70,21 @@ count:
       icon: bi bi-graph-down-arrow
 
     - title: First Time Resolution
-      count: 25
+      count: 80
       icon: bi bi-book
 #content-sections
 details:
   items:
     - right: true #true or false
-      title: ENGAGE WITH YOUR CUSTOMERS WHEREVER THEY ARE
-      content: "Talk to anyone, anywhere, anytime? Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps. We even have you covered if you are using a popular e-commerce platform like Lazada, Shopee or Magento! Connect all conversations in one single online interface."
+      title: SERVE YOUR CUSTOMERS WHEREVER THEY ARE
+      content: "Talk to anyone, anywhere, anytime? Service your customers over websites, telephone, mobile app, social media channels like WeChat, Whatsapp, Facebook, Instagram, e-commerce platforms like Lazada or Magento and Shopee and many other popular channels. Connect all conversations in one single online interface."
       image: /assets/img/home-live-chat.svg
       color: blue-color #blue-color, pink-color, orange-color,
       btn_link: /contact-center/
       btn_label: Contact Center
 
     - right: false #true or false
-      title: ENGAGE WITH YOUR CUSTOMERS WHEREVER THEY ARE
+      title: CONVERSATIONAL AI TO HELP YOUR AGENTS AND CUSTOMERS
       content: "The right balance between automation and contribution. Your agents can team up with AI Virtual Assistants that will support them along their days of customer care heroes."
       image: /assets/img/home-agent-support.svg
       color: pink-color #blue-color, pink-color, orange-color,
