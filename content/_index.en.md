@@ -30,7 +30,6 @@ hero:
     label: Request a Demo
     link: /request-a-demo
 
-# Our Customers:
 #Clients Section
 client:
   enable: true
