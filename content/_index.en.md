@@ -159,6 +159,12 @@ testimonial:
   enable: true
   items:
   
+ - name: FLORENTIA VILLAGE
+      intro: Florentia Village is an Italian luxury outlet shopping village located across China. Each village features a large collection of designer and luxury brands at discounted prices. The villages also include restaurants, cafes, and playgrounds for children. Florentia Village serves around 25 million customers each year.
+      logo: /assets/img/testimonials/testimonials-5.png
+      achivement: 70% of repetitive questions are  handled via conversational AI in Mandarin.
+      implementations: "Phone + App + Wechat + Mini Program"
+
     - name: PHILIPS
       intro: Philips is a leading health technology company focused on improving peoples health and enabling better outcomes which engages in the healthcare, lighting and consumer well-being markets.
       logo: /assets/img/testimonials/testimonials-1.jpg
