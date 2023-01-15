@@ -158,6 +158,13 @@ partners:
 testimonial:
   enable: true
   items:
+
+    - name: 佛罗伦萨小镇
+      intro: 佛罗伦萨小镇是一个遍布中国的意大利奢侈品奥特莱斯购物村。 每个村庄都以折扣价出售大量设计师品牌和奢侈品牌。 这些村庄还包括餐馆、咖啡馆和儿童游乐场。 佛罗伦萨小镇每年为约 2500 万顾客提供服务。
+      logo: /assets/img/testimonials/testimonials-5.jpg
+      achivement: 70% 的重复性问题是通过普通话对话 AI 处理的。
+      implementations: "手机 + APP + 微信 + 小程序"
+
     - name: 飞利浦
       intro: 飞利浦是一家领先的健康技术公司，致力于改善人们的健康，并取得更好的成果，从而参与医疗保健、照明和消费者健康市场
       logo: /assets/img/testimonials/testimonials-1.jpg

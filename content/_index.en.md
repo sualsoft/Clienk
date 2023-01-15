@@ -161,7 +161,7 @@ testimonial:
   
     - name: FLORENTIA VILLAGE
       intro: Florentia Village is an Italian luxury outlet shopping village located across China. Each village features a large collection of designer and luxury brands at discounted prices. The villages also include restaurants, cafes, and playgrounds for children. Florentia Village serves around 25 million customers each year.
-      logo: /assets/img/testimonials/testimonials-5.png
+      logo: /assets/img/testimonials/testimonials-5.jpg
       achivement: 70% of repetitive questions are  handled via conversational AI in Mandarin.
       implementations: "Phone + App + Wechat + Mini Program"
 
