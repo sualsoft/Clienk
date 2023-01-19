@@ -25,8 +25,6 @@ date: 2023-01-19
 
 **Lazada Omni Channel Integration For Clienk**
 
-![img](/assets/img/blog/clienk-lazada-logo.png)
-
 Lazada is the go-to online shopping platform for Southeast Asia. Lazada operates in Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam and therefore has a potential market reach of around 600 million consumers. Lazada was founded in 2012 and is a subsidiary of Alibaba Group.
 
 ![img](/assets/img/blog/lazada-clienk-new-session.png)
