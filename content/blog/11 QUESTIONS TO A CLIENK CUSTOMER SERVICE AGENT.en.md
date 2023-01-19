@@ -7,7 +7,7 @@ tags:
     Engage Customers,
     customer service,
     websites,
-    telephone,,
+    telephone,
     phone,
     mobile,
     channels,
