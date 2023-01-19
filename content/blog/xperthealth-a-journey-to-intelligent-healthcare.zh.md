@@ -1,6 +1,6 @@
 ---
 layout: blog-single
-title: "XPERTHEALTH - A JOURNEY TO INTELLIGENT HEALTHCARE"
+title: "XPERTHEALTH - 智能医疗之旅"
 description: "采访马蒂尼 | 衡之师   成就更好的自己 欢迎衡之师加入Clienk 家族！同时我们也很高兴能够采访到他们的业务发展和客户经理马蒂妮，一起探讨衡之师和 Clienk的合作旅程。     关于衡之师   衡之师是健康管理领域的专家，他们提供国际医疗保健、企业健康和创新健康相关产品和服务的咨询服务。他们为身心健康、一般健康和生活方式提供个人指导，并为客户、医疗保健专家和保险建立联系   衡之师的理念... "
 
 tags:
