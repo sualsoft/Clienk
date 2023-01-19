@@ -35,8 +35,10 @@
               <li class="d-flex align-items-center">
                 <i class="bi bi-clock"></i>
                 <a
-                  ><time datetime="2020-01-01"
-                    >{{ .Date | time.Format ":date_long" }}</time
+                  ><time datetime=""
+                    ><!--{{ .Date | time.Format ":date_long" }}-->
+                    {{ .Params.date.Format .Site.Params.dateFormat }}
+                    </time
                   ></a
                 >
               </li>
