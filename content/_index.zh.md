@@ -114,9 +114,6 @@ partners:
     - logo: /assets/img/partners/partners-1.png
       link: https://www.evocreations.com/
 
-    - logo: /assets/img/partners/partners-2.png
-      link: https://31ten.com.cn/
-
     - logo: /assets/img/partners/partners-3.png
       link: https://www.baozun.com/
 
