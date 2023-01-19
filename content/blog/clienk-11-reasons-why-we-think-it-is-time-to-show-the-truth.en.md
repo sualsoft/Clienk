@@ -1,6 +1,6 @@
 ---
 layout: blog-single
-title: "Clienk'S 11 REASONS WHY, WE THINK IT IS TIME TO SHOW THE TRUTH"
+title: "11 QUESTIONS TO A CLIENK CUSTOMER SERVICE AGENT"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
@@ -29,7 +29,7 @@ About this article: I would like to give you an example in a Clienk way by showi
 
 **\*Who is the interviewee?\***
 
-**R\*\***ebecca\*\* has been working at a contact center for over 5 years leading a team with 25 agents in Shanghai. She started working as an agent, so she knows exactly what issues they need to solve with her team. Unfortunately they had poor functionality from their previous software and a lot of extra work on monthly reports…
+**Rebecca** has been working at a contact center for over 5 years leading a team with 25 agents in Shanghai. She started working as an agent, so she knows exactly what issues they need to solve with her team. Unfortunately they had poor functionality from their previous software and a lot of extra work on monthly reports…
 
 She contacted us **for a better solution**.
 
@@ -39,47 +39,47 @@ After some weeks we implemented everything and helped her company onboard Clienk
 
 **_接下来的是采访内容_**
 
-\1. Can you tell me why would you **like** to use **Clienk** **in three words**?
+1. Can you tell me why would you **like** to use **Clienk** **in three words**?
 
-**'\*\***Simple, fast, local China support.\*\*
+**Simple, fast, local China support.**
 
-\2. How would you **describe** the role of your **contact center representative**?
+2. How would you **describe** the role of your **contact center representative**?
 
 **\*\*\*\*'\*\*\*\***Our representatives are actually called brand ambassadors, and we expect the agents to fully represent and act like the brands that we work for. Elegant, personalized and with the highest level of service.
 
-\3. How many **channels** do you use now? And how many agents are using Clienk?
+3. How many **channels** do you use now? And how many agents are using Clienk?
 
-**'**Currently our brands use telephone, Wechat , Weibo , and Web in China, our international offices also use WhatsApp and Facebook. We have 100 brand ambassadors in China and 350 globally.
+Currently our brands use telephone, Wechat, Weibo, and Web in China, our international offices also use WhatsApp and Facebook. We have 100 brand ambassadors in China and 350 globally.
 
-\4. Can you measure the **average time** you spend **per customer session** through Clienk?
+4. Can you measure the **average time** you spend **per customer session** through Clienk?
 
-**'**Yes, now we know this up until the second. Our **phone calls** are **less** than **3 minutes** and our **chat session** are **below 6 minutes**. Before we did not have any actual data, it was based on manual logging in excel sheets.
+Yes, now we know this up until the second. Our **phone calls** are **less** than **3 minutes** and our **chat session** are **below 6 minutes**. Before we did not have any actual data, it was based on manual logging in excel sheets.
 
 ![666](/assets/img/blog/666.png)
 
-\5. How much work could you do **before** you started using **Clienk**? And how about **after**?
+5. How much work could you do **before** you started using **Clienk**? And how about **after**?
 
-**'**Before using Clienk we spend on average more than 10 minutes, which was mainly spend on updating external systems. And now that everything is integrated, **we save about 4 minutes per session**.
+Before using Clienk we spend on average more than 10 minutes, which was mainly spend on updating external systems. And now that everything is integrated, **we save about 4 minutes per session**.
 
 ![12](/assets/img/blog/12.png)
 
-\6. What is the **most frustrating** part about your **previous situation**?
+6. What is the **most frustrating** part about your **previous situation**?
 
-**'**Before everything was separated, we used 2 software systems and excel and also, we had a very slow connection to HQ (Head Quarters) who had our main CRM system.
+Before everything was separated, we used 2 software systems and excel and also, we had a very slow connection to HQ (Head Quarters) who had our main CRM system.
 
 ![13](/assets/img/blog/13.png)
 
-\7. Can you tell me which tools Clienk provide you to monitor and manage your teams including workloads?
+7. Can you tell me which tools Clienk provide you to monitor and manage your teams including workloads?
 
-**'**We have a very convenient **live** **dashboard** where I can exactly see how busy it is and who is doing what. Based on the queue waiting times I can now easily increase **maximum capacity** per agent so that everybody has the same workload.
+We have a very convenient **live** **dashboard** where I can exactly see how busy it is and who is doing what. Based on the queue waiting times I can now easily increase **maximum capacity** per agent so that everybody has the same workload.
 
 ![14](/assets/img/blog/14.jpg)
 
-\8. How do you check **previous** **conversations** with your customers now?
+8. How do you check **previous** **conversations** with your customers now?
 
 Can you give an example?
 
-**'**Since we use Clienk we have all the history automatically there, and we can see all the communication channels in one place. For example, **before we had a separated Wechat** backends from every brand, **now we have all of them in one place**!
+**'**Since we use Clienk we have all the history automatically there, and we can see all the communication channels in one place. For example, **before we had a separated Wechat** backends from every brand, **now we have all of them in one place**'**!
 
 ![15](/assets/img/blog/15.png)
 
