@@ -37,19 +37,17 @@ After some weeks we implemented everything and helped her company onboard Clienk
 
 **_The interview starts:_**
 
-**_接下来的是采访内容_**
-
 1. Can you tell me why would you **like** to use **Clienk** **in three words**?
 
-**Simple, fast, local China support.**
+**'Simple, fast, local China support.'**
 
 2. How would you **describe** the role of your **contact center representative**?
 
-**\*\*\*\*'\*\*\*\***Our representatives are actually called brand ambassadors, and we expect the agents to fully represent and act like the brands that we work for. Elegant, personalized and with the highest level of service.
+'Our representatives are actually called brand ambassadors, and we expect the agents to fully represent and act like the brands that we work for. Elegant, personalized and with the highest level of service.'
 
 3. How many **channels** do you use now? And how many agents are using Clienk?
 
-Currently our brands use telephone, Wechat, Weibo, and Web in China, our international offices also use WhatsApp and Facebook. We have 100 brand ambassadors in China and 350 globally.
+'Currently our brands use telephone, Wechat, Weibo, and Web in China, our international offices also use WhatsApp and Facebook. We have 100 brand ambassadors in China and 350 globally.'
 
 4. Can you measure the **average time** you spend **per customer session** through Clienk?
 
