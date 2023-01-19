@@ -18,7 +18,7 @@ tags:
   ]
 
 image: /assets/img/blog/blog-1.jpg
-date: 2021-2-20
+date: 2021-02-20
 ---
 
 **It’s all about you, a better you!**
