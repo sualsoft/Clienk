@@ -51,51 +51,47 @@ After some weeks we implemented everything and helped her company onboard Clienk
 
 4. Can you measure the **average time** you spend **per customer session** through Clienk?
 
-Yes, now we know this up until the second. Our **phone calls** are **less** than **3 minutes** and our **chat session** are **below 6 minutes**. Before we did not have any actual data, it was based on manual logging in excel sheets.
+'Yes, now we know this up until the second. Our **phone calls** are **less** than **3 minutes** and our **chat session** are **below 6 minutes**. Before we did not have any actual data, it was based on manual logging in excel sheets.'
 
 ![666](/assets/img/blog/666.png)
 
 5. How much work could you do **before** you started using **Clienk**? And how about **after**?
 
-Before using Clienk we spend on average more than 10 minutes, which was mainly spend on updating external systems. And now that everything is integrated, **we save about 4 minutes per session**.
+'Before using Clienk we spend on average more than 10 minutes, which was mainly spend on updating external systems. And now that everything is integrated, **we save about 4 minutes per session**.'
 
 ![12](/assets/img/blog/12.png)
 
 6. What is the **most frustrating** part about your **previous situation**?
 
-Before everything was separated, we used 2 software systems and excel and also, we had a very slow connection to HQ (Head Quarters) who had our main CRM system.
+'Before everything was separated, we used 2 software systems and excel and also, we had a very slow connection to HQ (Head Quarters) who had our main CRM system.'
 
 ![13](/assets/img/blog/13.png)
 
 7. Can you tell me which tools Clienk provide you to monitor and manage your teams including workloads?
 
-We have a very convenient **live** **dashboard** where I can exactly see how busy it is and who is doing what. Based on the queue waiting times I can now easily increase **maximum capacity** per agent so that everybody has the same workload.
+'We have a very convenient **live** **dashboard** where I can exactly see how busy it is and who is doing what. Based on the queue waiting times I can now easily increase **maximum capacity** per agent so that everybody has the same workload.'
 
 ![14](/assets/img/blog/14.jpg)
 
-8. How do you check **previous** **conversations** with your customers now?
+8. How do you check **previous** **conversations** with your customers now? Can you give an example?
 
-Can you give an example?
-
-**'**Since we use Clienk we have all the history automatically there, and we can see all the communication channels in one place. For example, **before we had a separated Wechat** backends from every brand, **now we have all of them in one place**'**!
+'Since we use Clienk we have all the history automatically there, and we can see all the communication channels in one place. For example, **before we had a separated Wechat** backends from every brand, **now we have all of them in one place**'
 
 ![15](/assets/img/blog/15.png)
 
 _(sample screenshot, no actual customer data)_
 
-\9. How do you feel about the current situation?
+9. How do you feel about the current situation?
 
-**'**We are very happy and we get much more work done. Creating our monthly report is just a matter of running a report and the external systems are automatically
+'We are very happy and we get much more work done. Creating our monthly report is just a matter of running a report and the external systems are automatically updated with a live connection. **Finally, we can 100% focus on giving our customers the best experience.**'
 
-updated with a live connection. **Finally, we can 100% focus on giving our customers the best experience.**
+10. Would you recommend our solution to others?
 
-\10. Would you recommend our solution to others?
+'If they need a system that can handle all the customers communication channels, I would definitely recommend Clienk to them!'
 
-**'**If they need a system that can handle all the customers communication channels, I would definitely recommend Clienk to them!
+11. Will you keep using Clienk?
 
-**11. Will you keep using Clienk?**
-
-**\*\*'\*\*Yes, for sure!**
+'Yes, for sure!'
 
 **_At the end of the interview :_**
 
@@ -105,7 +101,7 @@ Thank you very much for you time Rebecca, you helped a lot by giving the feedbac
 
 Rebecca:
 
-You are welcome. I am satisfy with our current solution!And I really like the idea of this interview.
+You are welcome. I am satisfy with our current solution! And I really like the idea of this interview.
 
 Anne:
 
