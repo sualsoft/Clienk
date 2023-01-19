@@ -8,6 +8,7 @@ tags:
     customer service,
     websites,
     telephone,
+    phone,
     mobile,
     channels,
     WeChat,
