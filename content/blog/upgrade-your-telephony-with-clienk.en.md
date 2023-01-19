@@ -1,16 +1,16 @@
 ---
 layout: blog-single
-title: "UPGRADE YOUR TELEPHONY WITH CLIENK"
+title: "Clienk launches Cloud Hosted or On Premise Callcenter PBX solution"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
     Engage Customers,
     customer service,
-    websites,
     telephone,
+    pbx,
+    ivr,
+    acd.
     phone,
-    phone,
-    mobile,
     channels,
     WeChat,
     Whatsapp,
@@ -27,7 +27,7 @@ privacy:
 
 **Clienk announces major product enhancement.**
 
-Clienk recently developed a major product enhancement that makes the Clienk suite truly omni-channel. By launching a fully integrated PBX with IVR and agent desktop integration, brands and call centers can now serve their customers also on the telephony channel. The product supports **Inbound calls**, **Outbound** **calls** and **Voicemail** all flowing through the unique unified session distribution and queueing system.
+Clienk recently developed a major product enhancement that makes the Clienk suite truly omni-channel. By launching a fully integrated PBX with IVR and agent desktop integration, brands and call centers can now serve their customers also on the phone channel. The product supports **Inbound calls**, **Outbound** **calls** and **Voicemail** all flowing through the unique unified session distribution and queueing system.
 
 **Inbound & Outbound calls**
 
@@ -37,7 +37,7 @@ Inbound call center agent performance is measured according to several metrics, 
 
 Outbound calls are calls that are initiated by an agent either by manually entering the phone number or by clicking on the phone icon inside the contact profile (even during a messaging conversation).
 
-Uploading call lists for telemarketing purposes will be supported by the end of 2020.
+Uploading call lists for telemarketing purposes will be supported by the end of 2023.
 
 Live examples of our Inbound and Outbound calling
 
@@ -97,4 +97,13 @@ The call queues and the other media (Chat, E-Mail, Messaging) queues can all be 
 
 Customers can be given the option to leave voicemail in the IVR outside the opening hours or while waiting in the queue (all configurable from the Clienk backend). The voicemail messages will be placed in the unified queue with the priority configured so that those voicemails will be routed to the next available agent when online.
 
-Customers can either choose an inhouse hardware PBX or Cloud based PBX, it all depends on your wishes, technical infrastructure and/or call and agent volume.
+**Music on Hold**
+
+While customers are waiting in the queue for the first agent to become available they can listen to your own selection of music. You choose the tracklist, we play the songs!
+
+**SIP or E1/T1**
+
+To meet all demands, Clienk supports both SIP and traditional E1/T1 telephone lines. For the best possible SIP connection Clienk works together with well known market leader Audiocodes.
+
+Customers can either choose an inhouse PBX or Cloud based PBX, it all depends on your wishes, technical infrastructure and/or call and agent volume.
+

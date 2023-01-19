@@ -118,11 +118,14 @@ partners:
     - logo: /assets/img/partners/partners-3.png
       link: https://www.baozun.com/
 
+    - logo: /assets/img/partners/audiocodes-logo.webp
+      link: https://www.audiocodes.com
+
     - logo: /assets/img/partners/partners-4.png
       link: https://www.d1m.cn/
 
     - logo: /assets/img/partners/partners-5.png
-      link: http://www.fugumobile.cn/
+      link: https://www.fugumobile.cn/
 
     - logo: /assets/img/partners/partners-6.png
       link: https://it-consultis.com/
