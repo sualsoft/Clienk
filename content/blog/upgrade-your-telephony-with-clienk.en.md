@@ -20,6 +20,8 @@ tags:
 
 image: /assets/img/blog/blog-4.jpg
 date: 2022-11-14
+privacy:
+  enable: true
 ---
 
 **Clienk announces major product enhancement.**

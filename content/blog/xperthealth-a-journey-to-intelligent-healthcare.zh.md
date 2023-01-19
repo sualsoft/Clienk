@@ -20,6 +20,8 @@ tags:
 
 image: /assets/img/blog/blog-1.jpg
 date: 2021-02-20
+privacy:
+  enable: true
 ---
 
 **采访马蒂尼|衡之师**

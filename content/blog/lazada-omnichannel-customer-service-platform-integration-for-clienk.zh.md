@@ -21,6 +21,8 @@ tags:
 
 image: /assets/img/blog/clienk-lazada-logo.png
 date: 2023-01-19
+privacy:
+  enable: true
 ---
 
 **Lazada 的全渠道整合为 Clienk**

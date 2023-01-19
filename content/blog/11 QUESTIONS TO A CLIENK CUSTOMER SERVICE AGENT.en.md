@@ -19,6 +19,8 @@ tags:
 
 image: /assets/img/blog/blog-3.jpg
 date: 2020-11-16
+privacy:
+  enable: true
 ---
 
 _A couple of days ago we launched Clienk at one of the contact centers in Shanghai, we think it is good to have a deep talk with one of the employee's so we decided to ..._

@@ -19,6 +19,8 @@ tags:
 
 image: /assets/img/blog/blog-3.jpg
 date: 2020-11-16
+privacy:
+  enable: true
 ---
 
 **这是一次真实的访问!**

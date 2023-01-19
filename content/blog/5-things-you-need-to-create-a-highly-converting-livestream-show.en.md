@@ -18,10 +18,12 @@ tags:
   ]
 
 image: /assets/img/blog/blog-2.jpg
-date: 2020-11-16
+date: 2020-05-16
+privacy:
+  enable: true
 ---
 
-n a good live streaming show, the key to attracting as many people as possible, is to engage with as many of the consumers as possible. To create a successful show you first need to start by knowing your consumer. Just like in any kind of relationship, you both feel more valued when the other person knows what your preferences are and how to make you feel happy and cared for.
+In a good live streaming show, the key to attracting as many people as possible, is to engage with as many of the consumers as possible. To create a successful show you first need to start by knowing your consumer. Just like in any kind of relationship, you both feel more valued when the other person knows what your preferences are and how to make you feel happy and cared for.
 
 **The first step is to collect customer data and statistics.**
 

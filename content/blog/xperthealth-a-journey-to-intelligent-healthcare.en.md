@@ -19,6 +19,8 @@ tags:
 
 image: /assets/img/blog/blog-1.jpg
 date: 2021-02-20
+privacy:
+  enable: true
 ---
 
 **It’s all about you, a better you!**

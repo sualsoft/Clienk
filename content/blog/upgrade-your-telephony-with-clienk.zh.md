@@ -20,6 +20,8 @@ tags:
 
 image: /assets/img/blog/blog-4.jpg
 date: 2022-11-14
+privacy:
+  enable: true
 ---
 
 **\*\*发布 Clienk 最新优化产品\*\***
