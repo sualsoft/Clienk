@@ -6,15 +6,8 @@ tags:
   [
     Engage Customers,
     customer service,
-    websites,
-    telephone,
-    mobile,
-    channels,
-    WeChat,
-    Whatsapp,
-    Facebook,
-    Instagram,
-    Line,
+    live streaming,
+    video,
   ]
 
 image: /assets/img/blog/blog-2.jpg

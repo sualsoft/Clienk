@@ -9,6 +9,7 @@ tags:
     websites,
     telephone,
     phone,
+    phone,
     mobile,
     channels,
     WeChat,
