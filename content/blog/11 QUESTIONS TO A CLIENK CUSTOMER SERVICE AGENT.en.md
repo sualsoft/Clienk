@@ -27,7 +27,7 @@ _A couple of days ago we launched Clienk at one of the contact centers in Shangh
 
 About this article: I would like to give you an example in a Clienk way by showing our actual case through an interview between me and a supervisor!
 
-**\*Who is the interviewee?\***
+**Who is the interviewee?**
 
 **Rebecca** has been working at a contact center for over 5 years leading a team with 25 agents in Shanghai. She started working as an agent, so she knows exactly what issues they need to solve with her team. Unfortunately they had poor functionality from their previous software and a lot of extra work on monthly reports…
 
