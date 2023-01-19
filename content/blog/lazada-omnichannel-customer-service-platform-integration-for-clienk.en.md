@@ -1,6 +1,6 @@
 ---
 layout: blog-single
-title: "Lazada Omni Channel Integration For Clienk"
+title: "Lazada Omni Channel Customer Service Platform Integration For Clienk"
 description: Engage customers via Lazada, websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
@@ -23,7 +23,7 @@ image: /assets/img/blog/clienk-lazada-logo.png
 date: 2023-01-19
 ---
 
-**Lazada Omni Channel Integration For Clienk**
+**Lazada Omni Channel Customer Service Platform Integration For Clienk**
 
 Lazada is the go-to online shopping platform for Southeast Asia. Lazada operates in Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam and therefore has a potential market reach of around 600 million consumers. Lazada was founded in 2012 and is a subsidiary of Alibaba Group.
 
