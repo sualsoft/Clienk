@@ -14,7 +14,7 @@ other = "Location"
 other = "E-mail"
 
 [call]
-other = "Call"
+other = ""
 
 [yourName]
 other = "Your Name"

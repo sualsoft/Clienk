@@ -14,7 +14,7 @@ other = "地点"
 other = "电子邮件"
 
 [call]
-other = "称呼"
+other = ""
 
 [yourName]
 other = "你的名字"
