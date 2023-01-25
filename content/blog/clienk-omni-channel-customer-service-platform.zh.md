@@ -1,7 +1,7 @@
 ---
 layout: blog-single
-title: "Clienk Omni Channel Customer Service Platform"
-description: Clienk is a customer service platform that helps businesses improve their customer service by providing multi-channel support, automated responses, reporting and analytics, and conversational AI.
+title: "Clienk全渠道客服平台"
+description: Clienk 是一个客户服务平台，可通过提供多渠道支持、自动响应、报告和分析以及对话式 AI 来帮助企业改善客户服务。
 tags:
   [
     Engage Customers,
