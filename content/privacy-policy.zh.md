@@ -25,7 +25,7 @@ privacy:
 
 WRITTEN ON 05 JANUARY 2023.
 
-# PRIVACY POLICY FOR CLIENK CHINA CO., LTD.
+# PRIVACY POLICY FOR CLIENK
 
 At Clienk, accessible from www.clienk.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Clienk and how we use it.
 
