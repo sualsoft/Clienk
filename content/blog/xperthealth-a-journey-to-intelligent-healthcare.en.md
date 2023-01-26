@@ -51,11 +51,11 @@ XpertHealth Customer Service team is based in Shanghai and the Netherlands. They
 
 Clienk's platform helps both teams to:
 
-\1. **Combine** users and inquiries coming from **different channels** the website live chat, their WeChat mini-program, and their Cory.Care APP **into one single platform**.
+1. **Combine** users and inquiries coming from **different channels** the website live chat, their WeChat mini-program, and their Cory.Care APP **into one single platform**.
 
-\2. **Simplify the workflow** for health Xperts (no need for the team to use an own private WeChat anymore, everything is centralized into one single platform)
+2. **Simplify the workflow** for health Xperts (no need for the team to use an own private WeChat anymore, everything is centralized into one single platform)
 
-\3. Use **surveys to get real-time feedback** after each chat.
+3. Use **surveys to get real-time feedback** after each chat.
 
 4.Simplify the workflow to **answer** health-related customer questions and to connect them to the XpertHealth network
 

@@ -57,6 +57,6 @@ Market investigation also shows that smart, fast and good customer service retai
 
 Every single time a customer leaves you with a bad feeling, you need to spend 6 fold the acquisition costs the next day to get 1 back…
 
-**\*NPS Examples on Website Chat\***
+**NPS Examples on Website Chat**
 
-![Picture10](https://www.Clienk.cn/images/pictures/Picture10.jpg)
+![Picture3](/assets/img/blog/Picture3.png)
