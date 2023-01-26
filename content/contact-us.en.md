@@ -23,9 +23,9 @@ hero:
   bg_color: "#9C1662"
   title: "CONTACT US"
   content: "Feel free to use the chat button on the right side of the page, if we are not online, then there is always the option to send us an email. <br><br> Our office's are located in Hong Kong, Shanghai and Singapore: <br>
-  <br><b>Clienk International Company Limited.</b><br> Metro Centre II <br> Unit 729, 21 Lam Hing Street<br> Kowloon Bay, Hong Kong <br>
+  <br><b>Clienk International Company Limited</b><br> Metro Centre II <br> Unit 729, 21 Lam Hing Street<br> Kowloon Bay, Hong Kong <br>
   <br><b> Clienk China Co., Ltd. </b><br> President Mansion <br> Huashan Road 868, Building D, Floor 0, Office B <br> 200051 Shanghai <br>
-  <br><b> Clienk Singapore </b><br> MYP Centre <br> 9 Battery Rd, Singapore <br> 049910 Singapore <br>"
+  <br><b> Clienk Singapore </b><br> MYP Centre <br> 9 Battery Road <br> 049910 Singapore <br>"
   image: /assets/img/contact-us-header.svg
   button:
     enable: false
