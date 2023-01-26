@@ -48,23 +48,19 @@ A high-quality contact center should have a number of key features, including a 
 
 To ensure that your contact center is performing at its best, it's important to track key metrics such as:
 
-**Answer rate:** The percentage of calls that are answered within a certain time period.
-
-**Abandonment rate:** The percentage of calls that are abandoned before they are answered.
-
-**Hold time:** The average time a customer spends on hold before their call is answered.
-
-**First call resolution:** The percentage of customer queries that are resolved during the first call.
-
-**Customer satisfaction:** The percentage of customers who report being satisfied with their contact center experience.
+- **Answer rate:** The percentage of calls that are answered within a certain time period.
+- **Abandonment rate:** The percentage of calls that are abandoned before they are answered.
+- **Hold time:** The average time a customer spends on hold before their call is answered.
+- **First call resolution:** The percentage of customer queries that are resolved during the first call.
+- **Customer satisfaction:** The percentage of customers who report being satisfied with their contact center experience.
 
 **Common Challenges of Contact Center Management**
 
 While contact center management can bring many benefits to your business, it also presents a number of challenges. Some common challenges include:
 
-**High call volume:** During peak periods, contact centers can experience a high volume of calls, which can lead to long wait times and frustrated customers.
-**Limited resources:** Contact centers often operate with limited resources, which can make it difficult to provide the level of service that customers expect.
-**Lack of integration:** Without proper integration, contact centers can struggle to handle customer queries and concerns in a timely and efficient manner.
+- **High call volume:** During peak periods, contact centers can experience a high volume of calls, which can lead to long wait times and frustrated customers.
+- **Limited resources:** Contact centers often operate with limited resources, which can make it difficult to provide the level of service that customers expect.
+- **Lack of integration:** Without proper integration, contact centers can struggle to handle customer queries and concerns in a timely and efficient manner.
 
 **Conclusion**
 
