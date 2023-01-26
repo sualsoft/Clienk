@@ -49,9 +49,13 @@ A high-quality contact center should have a number of key features, including a 
 To ensure that your contact center is performing at its best, it's important to track key metrics such as:
 
 **Answer rate:** The percentage of calls that are answered within a certain time period.
+
 **Abandonment rate:** The percentage of calls that are abandoned before they are answered.
+
 **Hold time:** The average time a customer spends on hold before their call is answered.
+
 **First call resolution:** The percentage of customer queries that are resolved during the first call.
+
 **Customer satisfaction:** The percentage of customers who report being satisfied with their contact center experience.
 
 **Common Challenges of Contact Center Management**
