@@ -33,7 +33,7 @@ baseURL = 'https://clienk.cn'
     footer_copy = "© 2003-2023 Clienk-保留所有权限"
     footer_address = "香港 <br> 上海 <br> 新加坡"
     btn = "寻求演示"
-    btn_link = "/zh/request-a-demo"
+    btn_link = "/request-a-demo"
     
 [sitemap]
   changefreq = 'monthly'

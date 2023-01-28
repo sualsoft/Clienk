@@ -19,3 +19,5 @@ zip -rmD /tmp/clienksitecn .
 cd -
 #cleanup the generated site directory
 rm -rf /tmp/clienk.cn
+#copy the file to website /tmp folder
+scp /tmp/clienksitecn.zip root@clienk.cn:/tmp/.

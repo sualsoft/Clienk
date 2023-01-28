@@ -129,7 +129,7 @@ about:
   title: 报告基于COPC
   content: 包在我们身上！我们知道，沟通并不总是在实时聊天。Clienk 还允许您在关注您社交媒体评论的同时，无需使用任何其他工具的情况下，询问您客户的反馈
   btn_label: 寻求演示
-  btn_link: /zh/request-a-demo/
+  btn_link: /request-a-demo/
 
   items2: #style 2
     - title: 客服占有率

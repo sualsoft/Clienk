@@ -28,7 +28,7 @@ hero:
   button:
     enable: true
     label: 寻求演示
-    link: /zh/request-a-demo
+    link: /request-a-demo
 
 #Clients Section
 client:
@@ -80,7 +80,7 @@ details:
       content: "想随时随地与任何人交谈？通过网站、移动应用、手机、微信、Whatsapp、Facebook、Instagram 以及许多其他的热门社交媒体渠道吸引客户。将所有对话通过一个高效的平台连接"
       image: /assets/img/home-live-chat.svg
       color: blue-color #blue-color, pink-color, orange-color,
-      btn_link: /zh/contact-center/
+      btn_link: /contact-center/
       btn_label: 呼叫中心
 
     - right: false #true or false
@@ -88,7 +88,7 @@ details:
       content: "自动化与贡献之间正确的平衡。您的客服可以与 AI 虚拟助理合作，这些助理将支持他们成为客户服务的英雄"
       image: /assets/img/home-agent-support.svg
       color: pink-color #blue-color, pink-color, orange-color,
-      btn_link: /zh/agent-coach/
+      btn_link: /agent-coach/
       btn_label: 客服教练
 
     - right: true #true or false
@@ -96,7 +96,7 @@ details:
       content: "检查客服的可用性、客户的队列时间、平均响应时间、解决时间以及许多更详细的报告。所有可导出和可呈现的现成图表和统计数据"
       image: /assets/img/home-reports.svg
       color: blue-color #blue-color, pink-color, orange-color,
-      btn_link: /zh/real-time-reporting/
+      btn_link: /real-time-reporting/
       btn_label: 报告
 
     - right: false #true or false
@@ -104,7 +104,7 @@ details:
       content: ""
       image: /assets/img/home-profiling.svg
       color: orange-color #blue-color, pink-color, orange-color,
-      btn_link: /zh/customer-profiling/
+      btn_link: /customer-profiling/
       btn_label: 客户分析
 
 #partners
