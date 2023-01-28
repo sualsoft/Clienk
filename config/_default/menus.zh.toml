@@ -1,22 +1,22 @@
 # main menu
 [[main]]
 name = "呼叫中心"
-url = "/zh/contact-center"
+url = "/contact-center"
 weight = 1
 
 [[main]]
 name = '客服教练'
-url = '/zh/agent-coach'
+url = '/agent-coach'
 weight = 2
 
 [[main]]
 name = "报告"
-url = "/zh/real-time-reporting"
+url = "/real-time-reporting"
 weight = 3
 
 [[main]]
 name = "客户分析"
-url = "/zh/customer-profiling"
+url = "/customer-profiling"
 weight = 4
 
 [[main]]
@@ -27,33 +27,33 @@ weight = 5
 # footer menu left
 [[footer_left]]
 name = "主页"
-url = "zh/"
+url = "/"
 
 [[footer_left]]
 name = "呼叫中心"
-url = "zh/contact-center"
+url = "contact-center"
 
 [[footer_left]]
 name = "客服教练"
-url = "zh/agent-coach"
+url = "agent-coach"
 
 [[footer_left]]
 name = "报告"
-url = "zh/real-time-reporting"
+url = "real-time-reporting"
 
 [[footer_left]]
 name = "客户分析"
-url = "zh/customer-profiling"
+url = "customer-profiling"
 
 # footer menu right
 [[footer_right]]
 name = "关于CLIENK"
-url = "zh/about-clienk"
+url = "about-clienk"
 
 [[footer_right]]
 name = "联系我们"
-url = "zh/contact-us"
+url = "contact-us"
 
 [[footer_right]]
 name = "隐私政策"
-url = "zh/privacy-policy"
+url = "privacy-policy"
