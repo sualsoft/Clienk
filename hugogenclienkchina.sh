@@ -17,5 +17,5 @@ cd /tmp/clienk.cn
 zip -rmD /tmp/clienksitecn .
 #go back to the last directory
 cd -
-#cleanup the generated site
+#cleanup the generated site directory
 rm -rf /tmp/clienk.cn
