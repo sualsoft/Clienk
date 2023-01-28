@@ -1,16 +1,24 @@
+languageCode = 'en'
+defaultContentLanguage = 'en'
 baseURL = 'https://clienk.com'
-languageCode = 'en-us'
-title = 'Clienk.com'
+
+
 [params]
     dateFormat = "02 Jan 2006"
 
 #################### default parameters ################################
+
 [languages]
   [languages.en]
     languageName = "English"
     flag = "en_gb.gif"
     weight = 1
 
+  [languages.zh]
+    languageName = "曼陀林"
+    flag = "zh_cn.gif"
+    weight = 2
+    
   [languages.en.params]
     footer_subtitle = "One single AI-powered web app for all your customer care."
     footer_title = "A BETTER WAY TO ENGAGE AND RETAIN YOUR CUSTOMERS." 
@@ -18,11 +26,6 @@ title = 'Clienk.com'
     footer_address = "Hong Kong <br> Shanghai <br> Singapore"
     btn = "Request A Demo"
     btn_link = "/request-a-demo"
-
-  [languages.zh]
-    languageName = "曼陀林"
-    flag = "zh_cn.gif"
-    weight = 2
 
   [languages.zh.params]
     footer_subtitle = "独立的人工智能应用，为您提供所有的客户服务"

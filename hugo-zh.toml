@@ -1,6 +1,7 @@
+languageCode = 'zh'
+defaultContentLanguage = 'zh'
 baseURL = 'https://clienk.cn'
-languageCode = 'zh_cn'
-#title = 'Clienk.com'
+
 
 [params]
     dateFormat = "02 Jan 2006"
@@ -17,7 +18,7 @@ languageCode = 'zh_cn'
     languageName = "曼陀林"
     flag = "zh_cn.gif"
     weight = 1
-
+    
   [languages.en.params]
     footer_subtitle = "One single AI-powered web app for all your customer care."
     footer_title = "A BETTER WAY TO ENGAGE AND RETAIN YOUR CUSTOMERS." 

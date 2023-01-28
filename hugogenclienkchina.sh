@@ -7,4 +7,15 @@
 
 # Here we go:
 
-hugo -b https://clienk.cn -d /tmp/clienk.cn --default-language zh
+#clean up if needed
+rm -rf /tmp/clienk.cn
+rm /tmp/clienksitecn.zip
+#compile site in /tmp and use cn config
+hugo -b https://clienk.cn -d /tmp/clienk.cn --config hugo-zh.toml
+#let's go into the directory to zip it
+cd /tmp/clienk.cn
+zip -rmD /tmp/clienksitecn .
+#go back to the last directory
+cd -
+#cleanup the generated site
+rm -rf /tmp/clienk.cn
