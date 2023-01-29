@@ -27,11 +27,11 @@ hero:
   <b>Clienk International Company Limited </b>
   <br> 
   Metro Centre II <br> Unit 729, 21 Lam Hing Street<br> 
-  Kowloon Bay, Hong Kong <br>
+  Kowloon Bay, Hong Kong SAR<br>
   <br>
   <b> Clienk China Co., Ltd. </b><a href=\"https://clienk.cn\">(China Website)</a><br> 
   President Mansion <br> Huashan Road 868, Building D, Floor 0, Office B <br>
-  200051 Shanghai <br>
+  200051 Shanghai, PRC China<br>
   <br>
   <b> Clienk Singapore </b><br> 
   MYP Centre <br> 9 Battery Road <br> 
