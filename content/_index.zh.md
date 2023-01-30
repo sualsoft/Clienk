@@ -146,6 +146,9 @@ partners:
 
     - logo: /assets/img/partners/partners-12.png
       link: https://qpsoftware.net/
+      
+    - logo: /assets/img/partners/partners-13.png
+      link: https://kawo.com/
 
     - logo: /assets/img/partners/partners-14.png
       link: https://www.tmogroup.com.cn/
