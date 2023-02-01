@@ -11,24 +11,24 @@
       content='{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}'
     />
 
-        <!-- multilingual SEO optimizations -->
-        {{ if .IsTranslated }}
-        <!---->
-        {{ range .AllTranslations }}
-        <link
-          rel="alternate"
-          hreflang="{{.Lang}}"
-          href="{{ .RelPermalink | absLangURL }}"
-        />
-        {{ end }}
-        <link
-          rel="alternate"
-          hreflang="x-default"
-          href="{{ .RelPermalink | absLangURL }}"
-        />
-        {{ end }}
-        <!----> 
-        
+    <!-- multilingual SEO optimizations -->
+    {{ if .IsTranslated }}
+    <!---->
+    {{ range .AllTranslations }}
+    <link
+      rel="alternate"
+      hreflang="{{.Lang}}"
+      href="{{ .RelPermalink | absLangURL }}"
+    />
+    {{ end }}
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="{{ .RelPermalink | absLangURL }}"
+    />
+    {{ end }}
+    <!---->
+
     {{partial "css.html"}}
   </head>
 
@@ -36,7 +36,7 @@
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top d-flex align-items-center">
       <div class="container d-flex align-items-center">
-        <a href="{{ site.BaseURL | absLangURL }}" class="logo me-auto"
+        <a href='{{ "/" | absLangURL }}' class="logo me-auto"
           ><img src="/assets/img/logo.png" alt="Clienk Logo"
         /></a>
 

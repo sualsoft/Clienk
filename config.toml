@@ -11,11 +11,13 @@ baseURL = 'https://clienk.com'
 [languages]
   [languages.en]
     languageName = "English"
+    contentDir = "content/english"
     flag = "en_gb.gif"
     weight = 1
 
   [languages.zh]
     languageName = "曼陀林"
+    contentDir = "content/zh"
     flag = "zh_cn.gif"
     weight = 2
     
