@@ -12,7 +12,7 @@
 rm -rf /tmp/clienk.cn /tmp/clienksitecn.zip
 
 # Compile site in /tmp and use cn config
-hugo -b https://clienk.cn -d /tmp/clienk.cn --config hugo-zh.toml
+hugo -b https://clienk.cn -d /tmp/clienk.cn --config config-zh.toml
 
 # Let's go into the directory to zip it
 (cd /tmp/clienk.cn && zip -rmD /tmp/clienksitecn . && cd -)
