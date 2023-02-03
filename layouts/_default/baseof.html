@@ -93,7 +93,9 @@
               <h4>{{.Site.Params.footer_title}}</h4>
             </div>
             <div class="col-lg-6 text-center mt-4">
-              <a href="{{.Site.Params.btn_link}}">{{.Site.Params.btn}}</a>
+              <a href='{{ "/" | absLangURL }}{{.Site.Params.btn_link}}'
+                >{{.Site.Params.btn}}</a
+              >
             </div>
           </div>
         </div>

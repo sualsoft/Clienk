@@ -28,7 +28,7 @@ hero:
     enable: false
     color: "#000"
     label: Request a Demo
-    link: /request-a-demo
+    link: request-a-demo
 
 contact:
   enable: true
