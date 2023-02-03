@@ -68,7 +68,9 @@
         </nav>
         <!-- .navbar -->
 
-        <a href="{{.Site.Params.btn_link}}" class="get-started-btn scrollto"
+        <a
+          href='{{ "/" | absLangURL }}{{.Site.Params.btn_link}}'
+          class="get-started-btn scrollto"
           >{{ i18n "demo" .}}</a
         >
       </div>
