@@ -32,7 +32,7 @@ baseURL = 'https://clienk.cn'
   [languages.zh.params]
     footer_subtitle = "独立的人工智能应用，为您提供所有的客户服务"
     footer_title = "一个更好的方式去吸引和留住客户"
-    footer_copy = "© 2003-2023 Clienk-保留所有权限 <a href="http://www.beian.miit.gov.cn/">沪ICP备18038187号-4</a>"
+    footer_copy = "© 2003-2023 Clienk-保留所有权限 <a href=\"http://www.beian.miit.gov.cn/\">沪ICP备18038187号-4</a>"
     footer_address = "香港 <br> 上海 <br> 新加坡"
     btn = "寻求演示"
     btn_link = "/request-a-demo"
