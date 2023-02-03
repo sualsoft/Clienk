@@ -22,7 +22,7 @@ hero:
   enable: true
   bg_color: "#3564b1"
   title: "MAKE YOURSELF AVAILABLE. ENGAGE YOUR CUSTOMERS WHEREVER THEY ARE"
-  content: What if you could talk to anyone, anywhere, anytime? Allow your agents to engage customers over telephone, websites, mobile apps, e-commerce platforms and popular messaging apps and tie all their interactions all together in one unified workspace for your support and sales teams with Clienk.
+  content: With Clienk's omni-channel customer service dashboard, your agents can engage customers through telephone, websites, mobile apps, e-commerce platforms, and popular messaging apps, all in one unified workspace. Experience the convenience of being able to talk to customers anytime, anywhere and have all their interactions seamlessly integrated for improved support and sales management.
   image: /assets/img/livechat-header.svg
   button:
     enable: false
