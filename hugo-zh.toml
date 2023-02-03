@@ -24,18 +24,22 @@ baseURL = 'https://clienk.cn'
   [languages.en.params]
     footer_subtitle = "One single AI-powered web app for all your customer care."
     footer_title = "A BETTER WAY TO ENGAGE AND RETAIN YOUR CUSTOMERS." 
-    footer_copy = "© 2003-2023 Clienk-All Rights Reserved"
+    footer_copy = "© 2003-2023 Clienk - All Rights Reserved"
+    footer_icp_txt = ""
+    footer_icp_link = ""
     footer_address = "Hong Kong <br> Shanghai <br> Singapore"
     btn = "Request A Demo"
-    btn_link = "/request-a-demo"
+    btn_link = "request-a-demo"
 
   [languages.zh.params]
     footer_subtitle = "独立的人工智能应用，为您提供所有的客户服务"
     footer_title = "一个更好的方式去吸引和留住客户"
-    footer_copy = '''© 2003-2023 Clienk-保留所有权限 <a href="http://www.beian.miit.gov.cn/">沪ICP备18038187号-4</a>'''
+    footer_copy = "© 2003-2023 Clienk - 保留所有权限 "
+    footer_icp_txt = "沪ICP备18038187号-4"
+    footer_icp_link = "http://www.beian.miit.gov.cn/"
     footer_address = "香港 <br> 上海 <br> 新加坡"
     btn = "寻求演示"
-    btn_link = "/request-a-demo"
+    btn_link = "request-a-demo"
     
 [sitemap]
   changefreq = 'monthly'
