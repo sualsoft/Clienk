@@ -20,7 +20,7 @@ url = "/customer-profiling"
 weight = 4
 
 [[main]]
-name = "Blog"
+name = "博客"
 url = "/blog"
 weight = 5
 
@@ -28,32 +28,45 @@ weight = 5
 [[footer_left]]
 name = "主页"
 url = "/"
+weight = 1
 
 [[footer_left]]
 name = "呼叫中心"
 url = "contact-center"
+weight = 2
 
 [[footer_left]]
 name = "客服教练"
 url = "agent-coach"
+weight = 3
 
 [[footer_left]]
 name = "报告"
 url = "real-time-reporting"
+weight = 4
 
 [[footer_left]]
 name = "客户分析"
 url = "customer-profiling"
+weight = 5
 
 # footer menu right
 [[footer_right]]
+name = "博客"
+url = "/blog"
+weight = 1
+
+[[footer_right]]
 name = "关于CLIENK"
 url = "about-clienk"
+weight = 2
 
 [[footer_right]]
 name = "联系我们"
 url = "contact-us"
+weight = 3
 
-[[footer_right]]
-name = "隐私政策"
-url = "privacy-policy"
+#[[footer_right]]
+#name = "隐私政策"
+#url = "privacy-policy"
+#weight = 4
