@@ -45,6 +45,7 @@ client:
     - /assets/img/clients/client-9.png
     - /assets/img/clients/client-10.png
     - /assets/img/clients/client-11.png
+    - /assets/img/clients/client-20.png
     - /assets/img/clients/client-12.png
     - /assets/img/clients/client-13.png
     - /assets/img/clients/client-14.png
@@ -53,6 +54,7 @@ client:
     - /assets/img/clients/client-17.png
     - /assets/img/clients/client-18.png
     - /assets/img/clients/client-19.png
+
 #count section
 count:
   enable: true

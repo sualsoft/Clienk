@@ -45,6 +45,7 @@ client:
     - /assets/img/clients/client-8.png
     - /assets/img/clients/client-9.png
     - /assets/img/clients/client-10.png
+    - /assets/img/clients/client-20.png
     - /assets/img/clients/client-11.png
     - /assets/img/clients/client-12.png
     - /assets/img/clients/client-13.png
