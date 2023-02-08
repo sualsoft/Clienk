@@ -10,7 +10,7 @@ tags:
     telephone,
     pbx,
     ivr,
-    acd.
+    acd,
     phone,
     channels,
     WeChat,
