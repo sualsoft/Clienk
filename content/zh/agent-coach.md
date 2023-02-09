@@ -28,7 +28,7 @@ hero:
     enable: false
     color: "#000"
     label: Request a Demo
-    link: request-a-demo
+    link: request-a-demo/
 
 #content-sections
 details:
@@ -111,7 +111,7 @@ about:
   title: 更多需要？
   content: 包在我们身上！我们知道，沟通并不总是在实时聊天。Clienk 还允许您在关注您社交媒体评论的同时，无需使用任何其他工具的情况下，询问您客户的反馈
   btn_label: 寻求演示
-  btn_link: request-a-demo
+  btn_link: request-a-demo/
 
   items:
     - title: 预定义答案

@@ -8,6 +8,7 @@ tags:
   [
     Engage Customers,
     customer service,
+    Omni channel,
     Lazada,
     websites,
     telephone,
@@ -29,7 +30,7 @@ hero:
   button:
     enable: true
     label: Request a Demo
-    link: request-a-demo
+    link: request-a-demo/
 
 #Clients Section
 client:
@@ -82,7 +83,7 @@ details:
       content: "Talk to anyone, anywhere, anytime? Service your customers over websites, telephone, mobile app, social media channels like WeChat, Whatsapp, Facebook, Instagram, e-commerce platforms like Lazada or Magento and Shopee and many other popular channels. Connect all conversations in one single online interface."
       image: /assets/img/home-live-chat.svg
       color: blue-color #blue-color, pink-color, orange-color,
-      btn_link: contact-center
+      btn_link: contact-center/
       btn_label: Contact Center
 
     - right: false #true or false
@@ -90,7 +91,7 @@ details:
       content: "The right balance between automation and contribution. Your agents can team up with AI Virtual Assistants that will support them along their days of customer care heroes."
       image: /assets/img/home-agent-support.svg
       color: pink-color #blue-color, pink-color, orange-color,
-      btn_link: agent-coach
+      btn_link: agent-coach/
       btn_label: Agent Coach
 
     - right: true #true or false
@@ -98,7 +99,7 @@ details:
       content: "Check agents availablity, customers queue time, average response times, resolution times, and many more detailed reports. All exportable and presentable with ready made charts and statistics."
       image: /assets/img/home-reports.svg
       color: blue-color #blue-color, pink-color, orange-color,
-      btn_link: real-time-reporting
+      btn_link: real-time-reporting/
       btn_label: Reporting
 
     - right: false #true or false
@@ -106,7 +107,7 @@ details:
       content: "Leverage your customer support data. Learn from your conversations and add tags to their customer profile automatically thanks to AI listening."
       image: /assets/img/home-profiling.svg
       color: orange-color #blue-color, pink-color, orange-color,
-      btn_link: customer-profiling
+      btn_link: customer-profiling/
       btn_label: Customer Profiling
 
 #partners

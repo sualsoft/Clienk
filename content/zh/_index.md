@@ -8,6 +8,7 @@ tags:
   [
     Engage Customers,
     customer service,
+    Omni channel,
     websites,
     telephone,
     mobile,
@@ -28,7 +29,7 @@ hero:
   button:
     enable: true
     label: 寻求演示
-    link: request-a-demo
+    link: request-a-demo/
 
 #Clients Section
 client:
