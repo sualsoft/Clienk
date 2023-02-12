@@ -59,7 +59,7 @@
             {{ range $.Site.Home.AllTranslations }}
             <li class="language">
               <a href="{{ .Permalink }}" class="p-3"
-                ><img src="/assets/img/{{ .Language.Params.flag }}" alt="En" />
+                ><img src="/assets/img/{{ .Language.Params.flag }}" alt="{{ .Language.LanguageName }}" />
               </a>
             </li>
             {{ end }}
