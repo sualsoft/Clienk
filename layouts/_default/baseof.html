@@ -5,7 +5,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
     <title>{{.Title}}</title>
-    <meta content="{{.Description}}" name="description" />
+    <meta name="description" content="{{.Description}}" />
     <meta
       name="keywords"
       content='{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}'
@@ -59,7 +59,7 @@
             {{ range $.Site.Home.AllTranslations }}
             <li class="language">
               <a href="{{ .Permalink }}" class="p-3"
-                ><img src="/assets/img/{{ .Language.Params.flag }}" alt="{{ .Language.LanguageName }}" />
+                ><img src="/assets/img/{{ .Language.Params.flag }}" alt="{{ .Language.LanguageName }}"   />
               </a>
             </li>
             {{ end }}
