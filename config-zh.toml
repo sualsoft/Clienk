@@ -42,7 +42,7 @@ baseURL = 'https://clienk.cn'
     btn_link = "request-a-demo"
     
 [sitemap]
-  changefreq = 'monthly'
+  changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
 
