@@ -126,7 +126,7 @@ partners:
 #testimonial
 about:
   title: NEED MORE?
-  content: We’ve got you covered. We know, communication is not always on live chat. Clienk also lets you attend to your social media comments and ask for some feedback to your customers without having to use any other tool
+  content: We’ve got you covered. We know, communication is not always on live chat. Clienk also lets you attend to your social media messages and ask for some feedback to your customers without having to use any other tool
   btn_label: Request a Demo
   btn_link: request-a-demo/
 

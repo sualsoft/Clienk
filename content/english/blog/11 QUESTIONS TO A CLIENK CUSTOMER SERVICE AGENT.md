@@ -1,7 +1,7 @@
 ---
 layout: blog-single
 title: "11 QUESTIONS TO A CLIENK CUSTOMER SERVICE AGENT"
-description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
+description: Case study migrating from SAP CX to Clienk all channel customer service platform.
 tags:
   [
     Engage Customers,

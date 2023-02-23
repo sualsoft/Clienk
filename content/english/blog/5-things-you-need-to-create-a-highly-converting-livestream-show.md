@@ -1,7 +1,7 @@
 ---
 layout: blog-single
 title: "5 THINGS YOU NEED TO CREATE A HIGHLY CONVERTING LIVESTREAM SHOW"
-description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
+description: Find out more information how live streaming and customer sewrvice can improve your sales.
 tags:
   [
     Engage Customers,

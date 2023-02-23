@@ -1,7 +1,7 @@
 ---
 layout: blog-single
 title: "Why You Should Choose Clienk for Your Customer Service Platform in South East Asia and China"
-description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram, e-commerce platforms like Lazada and Shopee and many other popular messaging apps.
+description: Clienk offers a comprehensive, reliable customer service platform for South East Asia and China. Support for popular platforms, data-driven insights, and local expertise. Contact us today.
 tags:
   [
     Engage Customers,

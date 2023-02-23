@@ -1,7 +1,7 @@
 ---
 layout: blog-single
 title: "Revolutionizing Customer Service: How AI Virtual Assistants Can Help Support and Train Your Agents"
-description: Engage customers via Lazada, websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
+description: Discover how AI can revolutionize customer care by improving agent training, reducing turnover, increasing efficiency, providing consistent support, and enhancing customer experience. Learn more with Clienk.
 tags:
   [
     Engage Customers,
