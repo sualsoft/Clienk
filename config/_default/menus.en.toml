@@ -57,3 +57,23 @@ url = "contact-us"
 [[footer_right]]
 name = "PRIVACY POLICY"
 url = "privacy-policy"
+
+[[social_links]]
+name = "fa-brands fa-instagram"
+url = "#"
+weight = 1
+
+[[social_links]]
+name = "fa-brands fa-weixin"
+url = "#"
+weight = 2
+
+[[social_links]]
+name = "fa-brands fa-facebook"
+url = "#"
+weight = 3
+
+[[social_links]]
+name = "fa-brands fa-linkedin"
+url = "#"
+weight = 4

@@ -1536,3 +1536,23 @@ section {
 #footer .footer-newsletter form input[type="submit"]:hover {
   background: #e55c8e;
 }
+
+#footer .footer-newsletter .social-icons ul {
+  list-style: none;
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  gap: 16px;
+}
+#footer .footer-newsletter .social-icons ul i {
+  color: #ffffff;
+  font-size: 18px;
+  background-color: transparent;
+  padding: 6px;
+  border-radius: 60px;
+  transition: 0.4s;
+}
+#footer .footer-newsletter .social-icons ul i:hover {
+  background: #fff;
+  color: #d9115b;
+}

@@ -11,6 +11,15 @@
       content='{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}'
     />
 
+    <!--Font awesome-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+      integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
     <!-- multilingual SEO optimizations -->
     {{ if .IsTranslated }}
     <!---->
@@ -143,12 +152,17 @@
             <div class="col-lg-4 col-md-6 footer-newsletter">
               <h4>{{ i18n "newslatter" .}}</h4>
               <p>{{ i18n "one" .}}</p>
-              <form action="https://formspree.io/f/meqddzjz" method="post">
-                <input type="email" name="email" /><input
-                  type="submit"
-                  value='{{ i18n "subscribe"}}'
-                />
-              </form>
+              <div class="social-icons">
+                <ul>
+                  {{ range site.Menus.social_links }}
+                  <li>
+                    <a href="{{ .URL | relLangURL }}" target="_blank"
+                      ><i class="{{ .Name }}"></i
+                    ></a>
+                  </li>
+                  {{end}}
+                </ul>
+              </div>
             </div>
           </div>
         </div>
