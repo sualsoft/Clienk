@@ -34,6 +34,9 @@ hero:
     label: Request a Demo
     link: request-a-demo/
 
+contact:
+  enable: true
+
 privacy:
   enable: true
 ---

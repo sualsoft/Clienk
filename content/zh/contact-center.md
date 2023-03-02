@@ -146,9 +146,6 @@ about:
         - 对您的故事的反应和评论
       icon: bi bi-chat-left-dots-fill
 
-contact:
-  enable: true
-
 privacy:
   enable: true
 ---
