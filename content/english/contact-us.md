@@ -22,7 +22,7 @@ hero:
   enable: true
   bg_color: "#9C1662"
   title: "CONTACT US"
-  content: "Feel free to use the chat button on the right side of the page, if we are not online, then there is always the option to send us an email. <br><br> Our office's are located in Hong Kong, Shanghai and Singapore: <br>
+  content: "Our office's are located in Hong Kong, Shanghai and Singapore: <br>
   <br>
   <b>Clienk International Company Limited </b>
   <br> 
