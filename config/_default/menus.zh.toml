@@ -70,3 +70,7 @@ weight = 3
 #name = "隐私政策"
 #url = "privacy-policy"
 #weight = 4
+
+[[social]]
+name = "fa-brands fa-weixin"
+url = "/assets/img/clienk-color-wechat-qr.png"

@@ -1327,6 +1327,30 @@ section {
   color: #666;
   font-family: "Open Sans";
 }
+.social li a i {
+  color: #e03a3c;
+  transition: all ease-out 1s;
+}
+.social .wa img {
+  width: 50px !important;
+}
+.social li a img {
+  display: none;
+}
+.social .wa:hover img {
+  display: inline-block;
+}
+.social .wa:hover i {
+  display: none;
+}
+.social {
+  display: flex;
+  gap: 12px;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  font-size: 36px;
+}
 /*--------------------------------------------------------------
 # Recent Blog Posts
 --------------------------------------------------------------*/

@@ -59,7 +59,10 @@
             {{ range $.Site.Home.AllTranslations }}
             <li class="language">
               <a href="{{ .Permalink }}" class="p-3"
-                ><img src="/assets/img/{{ .Language.Params.flag }}" alt="{{ .Language.LanguageName }}"   />
+                ><img
+                  src="/assets/img/{{ .Language.Params.flag }}"
+                  alt="{{ .Language.LanguageName }}"
+                />
               </a>
             </li>
             {{ end }}
@@ -146,12 +149,20 @@
             <div class="col-lg-4 col-md-6 footer-newsletter">
               <h4>{{ i18n "newslatter" .}}</h4>
               <p>{{ i18n "one" .}}</p>
-              <form action="https://formspree.io/f/meqddzjz" method="post">
-                <input type="email" name="email" /><input
-                  type="submit"
-                  value='{{ i18n "subscribe"}}'
-                />
-              </form>
+              <ul class="social">
+                <li>
+                  <a
+                    href="https://www.linkedin.com/company/clienk/"
+                    target="_blank"
+                    ><i class="bi bi-linkedin"></i
+                  ></a>
+                </li>
+                {{ range site.Menus.social }}
+                <li class="wa">
+                  <a><i class="{{.Name}}"></i> <img src="{{.URL}}" alt="" /></a>
+                </li>
+                {{end}}
+              </ul>
             </div>
           </div>
         </div>
@@ -161,7 +172,9 @@
         <div class="me-md-auto text-center text-md-start">
           <div class="copyright">
             {{ .Site.Params.footer_copy }}
-            <a href="{{ .Site.Params.footer_icp_link }}" target="_blank">{{ .Site.Params.footer_icp_txt }}</a>
+            <a href="{{ .Site.Params.footer_icp_link }}" target="_blank"
+              >{{ .Site.Params.footer_icp_txt }}</a
+            >
           </div>
         </div>
       </div>
