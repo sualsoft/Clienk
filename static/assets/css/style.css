@@ -1437,6 +1437,26 @@ section {
   z-index: 9998;
 }
 
+.popup2 {
+  background-color: transparent;
+  display: none;
+  padding: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+.popup-overlay2 {
+  background-color: rgba(0, 0, 0, 0.6);
+  display: none;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9998;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/

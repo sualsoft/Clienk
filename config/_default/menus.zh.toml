@@ -71,6 +71,3 @@ weight = 3
 #url = "privacy-policy"
 #weight = 4
 
-[[social]]
-name = "fa-brands fa-weixin"
-url = "/assets/img/clienk-color-wechat-qr.png"

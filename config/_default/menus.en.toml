@@ -72,6 +72,3 @@ name = "Privacy Policy"
 url = "privacy-policy"
 weight = 4
 
-[[social]]
-name = "bi bi-whatsapp"
-url = "/assets/img/whatsapp-qr-code.png"
