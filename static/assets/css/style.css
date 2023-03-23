@@ -1332,16 +1332,21 @@ section {
   transition: all ease-out 1s;
 }
 .social .wa img {
-  width: 50px !important;
+  width: 100% !important;
+  height: auto;
 }
-.social li a img {
-  display: none;
+
+.social button {
+  background-color: transparent;
+  border: none;
+  padding: 0px;
 }
-.social .wa:hover img {
-  display: inline-block;
+.social button i {
+  color: #e03a3c;
 }
-.social .wa:hover i {
-  display: none;
+.social .close {
+  color: #fff;
+  font-size: 16px;
 }
 .social {
   display: flex;
@@ -1410,6 +1415,28 @@ section {
 .recent-blog-posts .post-box:hover .post-img img {
   transform: rotate(6deg) scale(1.2);
 }
+
+.popup {
+  background-color: transparent;
+  display: none;
+  padding: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+.popup-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  display: none;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9998;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/

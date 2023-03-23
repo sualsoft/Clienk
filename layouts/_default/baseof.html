@@ -159,7 +159,14 @@
                 </li>
                 {{ range site.Menus.social }}
                 <li class="wa">
-                  <a><i class="{{.Name}}"></i> <img src="{{.URL}}" alt="" /></a>
+                  <button onclick="showPopup()">
+                    <i class="{{.Name}}"></i>
+                  </button>
+                  <div class="popup-overlay" onclick="hidePopup()"></div>
+                  <div class="popup">
+                    <img src="{{.URL}}" alt="" />
+                    <button onclick="hidePopup()" class="close">Close</button>
+                  </div>
                 </li>
                 {{end}}
               </ul>
@@ -181,6 +188,20 @@
     </footer>
 
     <!-- End Footer -->
+
+    <!--Popup-->
+    <script>
+      function showPopup() {
+        document.querySelector(".popup-overlay").style.display = "block";
+        document.querySelector(".popup").style.display = "block";
+      }
+
+      function hidePopup() {
+        document.querySelector(".popup-overlay").style.display = "none";
+        document.querySelector(".popup").style.display = "none";
+      }
+    </script>
+    <!--end-->
 
     {{ partial "script.html"}}
   </body>
