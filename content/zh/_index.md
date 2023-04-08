@@ -18,6 +18,7 @@ tags:
     Facebook,
     Instagram,
     Line,
+    AI,
   ]
 
 #HERO SECTION

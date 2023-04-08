@@ -3,7 +3,7 @@ layout: home
 
 #seo
 title: "Clienk - AI powered all channel customer service platform"
-description: AI-powered omni channel customer service platform that connects websites, apps, messaging, WeChat, Whatsapp, Facebook, Instagram en e-com platforms like Lazada and Shopee.
+description: AI-powered omni channel customer service platform that connects websites, apps, messaging, WeChat, Whatsapp, Facebook and e-com platforms like Lazada and Shopee
 
 tags:
   [
@@ -20,6 +20,7 @@ tags:
     Facebook,
     Instagram,
     Line,
+    AI,
   ]
 
 #HERO SECTION

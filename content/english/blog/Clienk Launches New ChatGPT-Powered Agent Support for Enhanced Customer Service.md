@@ -19,6 +19,7 @@ tags:
     Lazada,
     Shopee,
     Line,
+    AI,
   ]
 
 image: /assets/img/blog/clienk-chatgpt-happy.png
