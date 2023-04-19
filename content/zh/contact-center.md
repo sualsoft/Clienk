@@ -53,7 +53,7 @@ details:
 
     - right: false #true or false
       title: 通过全 AI 自动化将服务扩展到 24小时7天365天
-      content:
+      content: "通过完全的AI自动化，您可以在非工作时间提供服务，为客户提供全天候的支持。不要让有限的可用性阻碍您提供卓越的服务。立即升级到AI自动化。"
       image: /assets/img/extend-service-to247-full-ai-automation.svg
       color: blue-color #blue-color, pink-color, orange-color,
 

@@ -53,7 +53,7 @@ details:
 
     - right: false #true or false
       title: EXTEND YOUR SERVICE TO 24|7|365 WITH FULL AI AUTOMATION
-      content:
+      content: "With full AI automation, you can extend your service during off time, providing your customers with the support they need around the clock. Don't let limited availability hold you back from delivering exceptional service. Upgrade to AI automation today."
       image: /assets/img/extend-service-to247-full-ai-automation.svg
       color: blue-color #blue-color, pink-color, orange-color,
 
