@@ -22,7 +22,7 @@ baseURL = 'https://clienk.cn'
     weight = 1
     
   [languages.en.params]
-    footer_subtitle = "One single AI-powered web app for all your customer care."
+    footer_subtitle = "One single AI-powered contact center for all your customer care."
     footer_title = "A BETTER WAY TO ENGAGE AND RETAIN YOUR CUSTOMERS." 
     footer_copy = "© 2003-2023 Clienk - All Rights Reserved"
     footer_icp_txt = "沪ICP备18038187号-4"

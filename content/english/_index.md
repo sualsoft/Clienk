@@ -26,7 +26,7 @@ tags:
 #HERO SECTION
 hero:
   enable: true
-  title: "ONE AI POWERED CUSTOMER CARE APPLICATION FOR ALL YOUR CONSUMER ENGAGEMENTS"
+  title: "ONE AI POWERED CONTACT CENTER APPLICATION FOR ALL YOUR CONSUMER INTERACTIONS"
   content: Drive loyalty and growth at every stage of your customer support lifecycle with Clienk
   image: /assets/img/hero.svg
   button:
