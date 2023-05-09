@@ -5,7 +5,7 @@ description: Engage customers over websites, telephone, mobile apps, social medi
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     websites,
     telephone,
     mobile,
@@ -25,7 +25,7 @@ privacy:
 
 **How to keep your existing customers shopping?**
 
-Did you know that acquiring a new customer costs 6 times more than retaining a customer?It is important to ensure that customers are always happy, even when they experience a problem.Investigation shows that brands that give high-quality customer service also have a higher customer satisfaction score!
+Did you know that acquiring a new customer costs 6 times more than retaining a customer?It is important to ensure that customers are always happy, even when they experience a problem.Investigation shows that brands that give high-quality contact center also have a higher customer satisfaction score!
 
 ![img](/assets/img/blog/blog-post.jpg)
 
@@ -47,7 +47,7 @@ It makes me unhappy and I don't want to shop with them anymore.
 
 **So, how to fix this?**
 
-Optimize your customer service and make it high quality and fast!
+Optimize your contact center and make it high quality and fast!
 
 And the first thing is to check if your agents have the tools they need? Do they have the full customer history across communication channels or are they able to easily see my shopping history?
 

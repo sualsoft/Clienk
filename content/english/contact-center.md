@@ -1,11 +1,11 @@
 ---
 #seo
-title: "Clienk - AI powered all channel customer service platform"
+title: "Clienk - AI powered all channel contact center platform"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     websites,
     telephone,
     mobile,
@@ -22,7 +22,7 @@ hero:
   enable: true
   bg_color: "#3564b1"
   title: "MAKE YOURSELF AVAILABLE. ENGAGE YOUR CUSTOMERS WHEREVER THEY ARE"
-  content: With Clienk's omni-channel customer service dashboard, your agents can engage customers through telephone, websites, mobile apps, e-commerce platforms, and popular messaging apps, all in one unified workspace. Experience the convenience of being able to talk to customers anytime, anywhere and have all their interactions seamlessly integrated for improved support and sales management.
+  content: With Clienk's omni-channel contact center dashboard, your agents can engage customers through telephone, websites, mobile apps, e-commerce platforms, and popular messaging apps, all in one unified workspace. Experience the convenience of being able to talk to customers anytime, anywhere and have all their interactions seamlessly integrated for improved support and sales management.
   image: /assets/img/livechat-header.svg
   button:
     enable: false

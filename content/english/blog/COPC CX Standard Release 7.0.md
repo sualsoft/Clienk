@@ -1,11 +1,11 @@
 ---
 layout: blog-single
 title: "COPC CX Standard Release 7.0 supported by Clienk"
-description: Clienk is a customer service platform that helps businesses improve their customer service by providing multi-channel support, automated responses, reporting and analytics, and conversational AI.
+description: Clienk is a contact center platform that helps businesses improve their contact center by providing multi-channel support, automated responses, reporting and analytics, and conversational AI.
 tags:
   [
     Engage Customers,
-    Customer Service,
+    contact center,
     Conversational AI,
     Omni Channel,
     websites,

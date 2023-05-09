@@ -5,7 +5,7 @@ description: Clienk是一个客户服务平台，通过提供多渠道支持、�
 tags:
   [
     Engage Customers,
-    Customer Service,
+    contact center,
     Conversational AI,
     Omni Channel,
     websites,

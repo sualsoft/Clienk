@@ -1,12 +1,12 @@
 ---
 layout: blog
 #seo
-title: "Clienk - AI powered all channel customer service platform"
+title: "Clienk - AI powered all channel contact center platform"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook and many other popular messaging apps
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     Conversational AI,
     OpenAI,
     ChatGPT,

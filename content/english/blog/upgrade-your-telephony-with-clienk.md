@@ -1,11 +1,11 @@
 ---
 layout: blog-single
-title: "Clienk launches Cloud Hosted or On Premise Callcenter PBX solution"
+title: "Clienk launches Cloud Hosted or On Premise Contact Center PBX solution"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     Contact Center,
     telephone,
     pbx,

@@ -5,7 +5,7 @@ description: 在当今快节奏的商业环境中，拥有可靠的联络中心�
 tags:
   [
     Engage Customers,
-    Customer Service,
+    contact center,
     Contact Center,
     Customer Satisfaction,
     Omni Channel,

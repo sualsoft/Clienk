@@ -5,7 +5,7 @@ description: 通过网站、电话、移动应用程序、微信、Whatsapp、Fa
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     websites,
     telephone,
     mobile,
@@ -23,7 +23,7 @@ hero:
   bg_color: "#9C1662"
   title: "联系我们"
   content: "我们的办公室位于香港、上海和新加坡：<br>
-  <br><b>Clienk International Company Limited </b><a href=\"https://clienk.com\">(.com Website)</a><br> 
+  <br><b>Clienk International/b><a href=\"https://clienk.com\">(.com Website)</a><br> 
   Metro Centre II <br> Unit 729, 21 Lam Hing Street<br> Kowloon Bay, Hong Kong SAR<br>
   <br><b> 上海昂兰信息科技有限公司 </b><br> 上海市长宁区华山路868弄6号总统公寓D座B0室<br>
   <br><b> Clienk Singapore </b><br> MYP Centre <br> 9 Battery Road <br> 049910 Singapore <br>"

@@ -5,7 +5,7 @@ description: 通过网站、电话、移动应用程序、微信、Whatsapp、Fa
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     websites,
     telephone,
     mobile,
@@ -54,7 +54,7 @@ We use the information we collect in various ways, including to:
 
 - Develop new products, services, features, and functionality
 
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the webste, and for marketing and promotional purposes
+- Communicate with you, either directly or through one of our partners, including for contact center, to provide you with updates and other information relating to the webste, and for marketing and promotional purposes
 
 - Send you emails
 

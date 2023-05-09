@@ -2,13 +2,13 @@
 layout: home
 
 #seo
-title: "Clienk - AI powered all channel customer service platform"
-description: AI-powered omni channel customer service platform that connects websites, apps, messaging, WeChat, Whatsapp, Facebook and e-com platforms like Lazada and Shopee
+title: "Clienk - AI powered all channel contact center platform"
+description: AI-powered omni channel contact center platform that connects websites, apps, messaging, WeChat, Whatsapp, Facebook and e-com platforms like Lazada and Shopee
 
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     Omni channel,
     Lazada,
     websites,
@@ -194,7 +194,7 @@ testimonial:
     - name: Brandy Melville
       intro: Brandy Melville is a clothing brand that was founded in Italy in 2009 and has since expanded to countries such as the United States, Canada, China and the United Kingdom. The brand is known for its casual and comfortable clothing styles, often featuring vintage-inspired designs. The brand primarily targets young women as its customer base.
       logo: /assets/img/testimonials/testimonials-4.jpeg
-      achivement: Up to 4500 sessions a day handled by their internal Customer Service teams.
+      achivement: Up to 4500 sessions a day handled by their internal contact center teams.
       implementations: "WeChat + APP Chat"
       
 privacy:

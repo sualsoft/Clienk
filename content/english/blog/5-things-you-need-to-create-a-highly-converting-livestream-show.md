@@ -5,7 +5,7 @@ description: Find out more information how live streaming and customer sewrvice 
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     live streaming,
     video,
   ]
@@ -85,4 +85,4 @@ As v-commerce looks to be reaching its peak in the world market now, brands shou
 
 **Knowing and analyzing key viewers data can maximize your profit from each live-streaming session. An AI-powered assistant will help your team become more efficient and increase your live-streaming ROI (Return of Investment).**
 
-Clienk is a customer service platform that enables brands to deliver Omnichannel customer service to their consumers. We are not a marketing agency, but we do provide the best data driven solution for your marketing strategy in order to help your brand understand your consumers in a better way. Investment should not just be limited to selecting the best celebrities for your live-streaming, the key is the audience therefore, a long-term strategy should be creating and sustaining good connection with them.
+Clienk is a contact center platform that enables brands to deliver Omnichannel contact center to their consumers. We are not a marketing agency, but we do provide the best data driven solution for your marketing strategy in order to help your brand understand your consumers in a better way. Investment should not just be limited to selecting the best celebrities for your live-streaming, the key is the audience therefore, a long-term strategy should be creating and sustaining good connection with them.

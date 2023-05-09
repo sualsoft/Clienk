@@ -32,7 +32,7 @@ When it comes to contact center platforms in South East Asia and China, there ar
 
 ### Clienk's Comprehensive Platform
 
-Clienk offers a comprehensive contact center platform that covers all aspects of customer service, from chatbots, messaging, phone, e-commerce platform to email support. Its platform is designed to make customer service easy and efficient, allowing you to focus on growing your business.
+Clienk offers a comprehensive contact center platform that covers all aspects of contact center, from chatbots, messaging, phone, e-commerce platform to email support. Its platform is designed to make contact center easy and efficient, allowing you to focus on growing your business.
 
 ### Expertise in South East Asia and China
 

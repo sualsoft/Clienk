@@ -5,7 +5,7 @@ description: 随着客户服务在企业中变得越来越重要，Clienk 自豪
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     ChatGPT,
     websites,
     telephone,

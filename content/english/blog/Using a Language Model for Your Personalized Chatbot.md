@@ -5,7 +5,7 @@ description: This article discusses the benefits of using ChatGPT, a large langu
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     Conversational AI,
     OpenAI,
     ChatGPT,

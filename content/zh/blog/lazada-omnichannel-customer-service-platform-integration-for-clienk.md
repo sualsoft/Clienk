@@ -4,7 +4,7 @@ title: "Lazada 的全渠道整合为 Clienk"
 description: 通过网站、电话、移动应用程序、微信、Whatsapp、Facebook、Instagram、Lazada、Shopee 和许多其他流行的消息传递应用程序等社交媒体渠道吸引客户。
   [
     Engage Customers,
-    Customer Service,
+    contact center,
     Lazada,
     Omni Channel,
     websites,

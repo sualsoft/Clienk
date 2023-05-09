@@ -5,7 +5,7 @@ description: Clienk 是一个超级聊天客户服务平台，可通过提供多
 tags:
   [
     Engage Customers,
-    Customer Service,
+    contact center,
     Conversational AI,
     Omni Channel,
     Superchat,

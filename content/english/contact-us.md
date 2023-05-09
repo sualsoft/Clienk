@@ -1,8 +1,8 @@
 ---
 # SEO INFORMATION
-title: "Clienk - AI Powered All Channel Customer Service Platform"
+title: "Clienk - AI Powered All Channel contact center Platform"
 description: "Engage customers over websites, telephone, mobile apps, and social media channels like WeChat, WhatsApp, Facebook, Instagram, and many other popular messaging apps."
-tags: [Engage Customers, Customer Service, Websites, Telephone, Mobile, Channels, WeChat, WhatsApp, Facebook, Instagram, Line]
+tags: [Engage Customers, contact center, Websites, Telephone, Mobile, Channels, WeChat, WhatsApp, Facebook, Instagram, Line]
 
 # HERO SECTION
 hero:
@@ -12,11 +12,11 @@ hero:
   content: 
     "Our offices are located in Hong Kong, Shanghai, and Singapore: <br><br>
 
-    <strong>Clienk International Company Limited<br></strong>
+    <strong>Clienk International<br></strong>
     Metro Centre II, Unit 729, 21 Lam Hing Street, <br>
     Kowloon Bay, Hong Kong SAR<br><br>
 
-    <strong>Clienk China Co., Ltd.<br></strong>
+    <strong>Clienk China<br></strong>
     President Mansion, Huashan Road 868,<br>
     Building D, Floor 0, Office B,<br>
     200051 Shanghai, PRC China

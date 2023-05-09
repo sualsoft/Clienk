@@ -1,11 +1,11 @@
 ---
 #seo
-title: "Clienk - AI powered all channel customer service platform"
+title: "Clienk - AI powered all channel contact center platform"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
     Engage Customers,
-    customer service,
+    contact center,
     websites,
     telephone,
     mobile,
@@ -22,7 +22,7 @@ hero:
   enable: true
   bg_color: "#3564B1"
   title: "Clienk"
-  content: Leading AI powered customer service platform for Chat, Wechat, WhatsApp, Phone, E-Mail, Facebook, Weibo, Instagram, e-commerce platforms like Lazada and Shopee and your own App.
+  content: Leading AI powered contact center platform for Chat, Wechat, WhatsApp, Phone, E-Mail, Facebook, Weibo, Instagram, e-commerce platforms like Lazada and Shopee and your own App.
   image: /assets/img/undraw_meet_the_team_e5b7.svg
   button:
     enable: false
