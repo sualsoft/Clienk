@@ -6,6 +6,11 @@ tags:
   [
     Engage Customers,
     contact center,
+    ChatGPT,
+    PaLM 2,
+    AI,
+    Conversational AI,
+    Chatbots,
     websites,
     telephone,
     mobile,

@@ -6,6 +6,11 @@ tags:
   [
     Engage Customers,
     contact center,
+    ChatGPT,
+    PaLM 2,
+    AI,
+    Conversational AI,
+    Chatbots,
     websites,
     telephone,
     mobile,
@@ -41,7 +46,7 @@ details:
 
     - right: false #true or false
       title: AI-POWERED SALES SCRIPT
-      content: "Engage actively in conversations with AI suggestions, guiding your agents to bring the customer down the Funnel."
+      content: "Engage actively in conversations with AI suggestions, guiding your agents to bring the customer down the sales funnel."
       image: /assets/img/ai-powered-sales-script.svg
       color: pink-color #blue-color, pink-color, orange-color,
 
