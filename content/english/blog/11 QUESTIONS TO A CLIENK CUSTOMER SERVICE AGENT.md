@@ -1,6 +1,6 @@
 ---
 layout: blog-single
-title: "11 QUESTIONS TO A CLIENK contact center AGENT"
+title: "11 QUESTIONS TO A CLIENK CONTACT CENTER AGENT"
 description: Case study migrating from SAP CX to Clienk all channel contact center platform.
 tags:
   [

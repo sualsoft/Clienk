@@ -1,6 +1,6 @@
 ---
 # SEO INFORMATION
-title: "Clienk - AI Powered All Channel contact center Platform"
+title: "Clienk - Contact Us"
 description: "Engage customers over websites, telephone, mobile apps, and social media channels like WeChat, WhatsApp, Facebook, Instagram, and many other popular messaging apps."
 tags: [Engage Customers, contact center, Websites, Telephone, Mobile, Channels, WeChat, WhatsApp, Facebook, Instagram, Line]
 

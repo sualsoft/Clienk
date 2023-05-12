@@ -1,11 +1,12 @@
 ---
 #seo
-title: "Clienk - AI powered all channel contact center platform"
+title: "Clienk - AI Real Time (COPC) Reporting"
 description: Engage customers over websites, telephone, mobile apps, social media channels like WeChat, Whatsapp, Facebook, Instagram and many other popular messaging apps.
 tags:
   [
     Engage Customers,
     contact center,
+    COPC,
     websites,
     telephone,
     mobile,

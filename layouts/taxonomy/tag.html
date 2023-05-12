@@ -8,20 +8,26 @@
       <div class="col-lg-4 mt-5">
         <div class="post-box">
           <div class="post-img">
-            <img
+{{/*              <img
               src="{{with .Params.image}}{{.}}{{end}}"
               class="img-fluid"
               alt="Logo"
             />
+  */}}   
+            {{ $image := .Params.image }}
+            {{ if not $image }}
+            {{ $image = "/assets/img/logo.png" }}
+            {{ end }}
+            <img src="{{ $image }}" class="img-fluid" alt="Clienk Logo" />
+
           </div>
-          <span class="post-date"
-            >Written on Tue, {{ .Params.date.Format .Site.Params.dateFormat
-            }}</span
-          >
+          {{ if .Params.date }}
+          <span class="post-date">Published on {{ .Params.date.Format .Site.Params.dateFormat }}</span>
+          {{ end }}
           <h3 class="post-title">{{.Title}}</h3>
-          <a href="{{.Permalink}}" class="readmore stretched-link mt-auto"
-            ><span>{{ i18n "readmore" .}}</span><i class="bi bi-arrow-right"></i
-          ></a>
+          <a href="{{.Permalink}}" class="readmore stretched-link mt-auto">
+            <span>{{ i18n "readmore" .}}</span><i class="bi bi-arrow-right"></i>
+          </a>
         </div>
       </div>
       {{end}}

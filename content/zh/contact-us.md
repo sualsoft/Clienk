@@ -1,6 +1,6 @@
 ---
 #seo
-title: "Clienk - 人工智能驱动的全渠道客户服务平台"
+title: "Clienk - 联系我们"
 description: 通过网站、电话、移动应用程序、微信、Whatsapp、Facebook、Instagram、Lazada、Shopee 和许多其他流行的消息传递应用程序等社交媒体渠道吸引客户。
 tags:
   [
