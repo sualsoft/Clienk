@@ -36,8 +36,8 @@ url = "contact-center"
 weight = 2
 
 [[footer_left]]
-name = "Agent Coach"
-url = "agent-coach"
+name = "AI Chatbots"
+url = "ai-assist-chatbot"
 weight = 3
 
 [[footer_left]]
