@@ -19,6 +19,11 @@ tags:
     Instagram,
     Line,
     AI,
+    COPC,
+    CX,
+    Conversational AI,
+    ChatGPT,
+    PaLM 2,
   ]
 
 #HERO SECTION

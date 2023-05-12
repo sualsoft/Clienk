@@ -17,6 +17,12 @@ tags:
     Facebook,
     Instagram,
     Line,
+    COPC,
+    CX,
+    AI,
+    Conversational AI,
+    ChatGPT,
+    PaLM 2,
   ]
 
 image: /assets/img/blog/copc-release-7.png
