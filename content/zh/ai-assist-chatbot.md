@@ -34,8 +34,8 @@ hero:
 details:
   items:
     - right: true #true or false
-      title: 借助 AI 的力量增强您的客服
-      content: "加强与 AI 支持的虚拟客户服务和销售助理的对话。这很容易，我们总是这样做！"
+      title: 使用语言模型人工智能强化您的聊天机器人
+      content: "使用像ChatGPT、PaLM 2、腾讯或百度这样的大型语言模型，赋能虚拟客户服务和销售助手，强化您的对话。这非常简单，我们经常这样做！"
       image: /assets/img/enhance-agents-with-power-of-ai.svg
       color: pink-color #blue-color, pink-color, orange-color,
 

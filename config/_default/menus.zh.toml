@@ -5,8 +5,8 @@ url = "/contact-center"
 weight = 1
 
 [[main]]
-name = '客服教练'
-url = '/agent-coach'
+name = 'AI聊天机器人'
+url = '/ai-assist-chatbot'
 weight = 2
 
 [[main]]
