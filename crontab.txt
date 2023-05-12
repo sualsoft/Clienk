@@ -1,2 +1,0 @@
-#install this crontab on the webserver for auto check on deploy every 5 minutes
-*/5 * * * * [ -f /tmp/clienksitecn.zip ] && rm -rf /var/www/html/clienk.cn/* > /dev/null 2>&1 && unzip -o /tmp/clienksitecn.zip -d /var/www/html/clienk.cn/ > /dev/null 2>&1 && rm /tmp/clienksitecn.zip > /dev/null 2>&1

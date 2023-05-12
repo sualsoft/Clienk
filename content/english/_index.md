@@ -8,6 +8,8 @@ description: AI-powered omni channel contact center platform that connects websi
 tags:
   [
     Engage Customers,
+    COPC,
+    CX,
     contact center,
     Omni channel,
     Lazada,

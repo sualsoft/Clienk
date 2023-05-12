@@ -20,6 +20,8 @@ tags:
     Facebook,
     Instagram,
     Line,
+    COPC,
+    CX,
   ]
 
 #HERO SECTION
