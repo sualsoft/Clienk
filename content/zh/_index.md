@@ -93,11 +93,11 @@ details:
       btn_label: 呼叫中心
 
     - right: false #true or false
-      title: 支持您的客服，帮助他们提高效率、使其更快、更高效
-      content: "自动化与贡献之间正确的平衡。您的客服可以与 AI 虚拟助理合作，这些助理将支持他们成为客户服务的英雄"
+      title: 对话式人工智能帮助您的代理商和客户
+      content: "之间实现自动化与贡献的正确平衡。您的代理商可以与AI虚拟助手合作，支持他们在客户服务英雄的日子里。您可以部署由ChatGPT、PaLM 2或Baidu等大型语言模型驱动的聊天机器人。"
       image: /assets/img/home-agent-support.svg
       color: pink-color #blue-color, pink-color, orange-color,
-      btn_link: agent-coach/
+      btn_link: ai-assist-chatbot/
       btn_label: 客服教练
 
     - right: true #true or false

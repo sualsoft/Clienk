@@ -92,11 +92,11 @@ details:
 
     - right: false #true or false
       title: CONVERSATIONAL AI TO HELP YOUR AGENTS AND CUSTOMERS
-      content: "The right balance between automation and contribution. Your agents can team up with AI Virtual Assistants that will support them along their days of customer care heroes."
+      content: "The right balance between automation and contribution. Your agents can team up with AI Virtual Assistants that will support them along their days of customer care heroes. You deploy your chatbots powered by a large language model like ChatGPT, PaLM 2 or Baidu"
       image: /assets/img/home-agent-support.svg
       color: pink-color #blue-color, pink-color, orange-color,
-      btn_link: agent-coach/
-      btn_label: Agent Coach
+      btn_link: ai-assist-chatbot/
+      btn_label: AI Chatbots
 
     - right: true #true or false
       title: OVER 150 COPC BASED REPORTS WILL UNCOVER ANY DETAILS
