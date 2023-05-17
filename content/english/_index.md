@@ -23,6 +23,7 @@ tags:
     Instagram,
     Line,
     AI,
+    ChatGPT,
   ]
 
 #HERO SECTION

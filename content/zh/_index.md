@@ -178,7 +178,7 @@ testimonial:
       implementations: "手机 + APP + 微信 + 小程序"
 
     - name: 飞利浦
-      intro: 飞利浦是一家领先的健康技术公司，致力于改善人们的健康，并取得更好的成果，从而参与医疗保健、照明和消费者健康市场
+      intro: 飞利浦是一家领先的健康技术公司，致力于改善人们的健康，并取得更好的成果，从而参与医疗保健、照明和消费者健康市场 
       logo: /assets/img/testimonials/testimonials-1.jpg
       achivement: 在 +65 个国家/地区实施客户服务 跨越 20 种语言 每月约 30.000 次聊天 通过线上直播让买家购买意向高达 96%
       implementations: "实现渠道：实时聊天 » 微信 » 微博 » 视频 » 飞利浦家庭应用程序聊天"
