@@ -1,14 +1,9 @@
-languageCode = 'en'
-defaultContentLanguage = 'en'
-baseURL = 'https://clienk.com'
-
 
 [params]
     dateFormat = "02 Jan 2006"
 
 #################### default parameters ################################
 
-[languages]
   [languages.en]
     languageName = "English"
     contentDir = "content/english"

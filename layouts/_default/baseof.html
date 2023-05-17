@@ -57,7 +57,7 @@
             </style>
             <!---->
             {{ range $.Site.Home.AllTranslations }}
-            <li class="language">
+            <li class="language.{{ .Site.Language.Lang }}">
               <a href="{{ .Permalink }}" class="p-3"
                 ><img
                   src="/assets/img/{{ .Language.Params.flag }}"
