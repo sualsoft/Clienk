@@ -4,6 +4,7 @@
 
 #################### default parameters ################################
 
+[languages]
   [languages.en]
     languageName = "English"
     contentDir = "content/english"
