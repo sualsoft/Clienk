@@ -10,13 +10,18 @@ tags:
     Omni Channel,
     websites,
     telephone,
-    COPC,
     channels,
     WeChat,
     Whatsapp,
     Facebook,
     Instagram,
     Line,
+    COPC,
+    CX,
+    AI,
+    Conversational AI,
+    ChatGPT,
+    PaLM 2,
   ]
 
 image: /assets/img/blog/copc-release-7.png
@@ -61,8 +66,8 @@ Many organizations are focused on employee engagement to improve retention, over
 
 ## How Does Clienk Adhere to the COPC CX Standard?
 
-[Clienk Insights and Reporting Module](https://clienk.com/real-time-reporting/) adheres to the COPC CX Standard version 7.0. Clienk is a real-time reporting platform that helps customer experience teams make data-driven decisions. It provides insights into the customer journey and helps teams understand how customers interact with their brand. Clienk enables teams to monitor key metrics such as first call resolution, average handle time, customer satisfaction, and more.
+[Clienk Insights and Reporting Module](/real-time-reporting/) adheres to the COPC CX Standard version 7.0. Clienk is a real-time reporting platform that helps customer experience teams make data-driven decisions. It provides insights into the customer journey and helps teams understand how customers interact with their brand. Clienk enables teams to monitor key metrics such as first call resolution, average handle time, customer satisfaction, and more.
 
 The Clienk Insights and Reporting Module is designed to help organizations save time and money by identifying performance and process issues and taking corrective actions that produce tangible CX improvements. It is an intuitive platform that enables teams to adopt and implement proven best practices to facilitate significant and sustained performance. The Clienk Insights and Reporting Module ensures that best practices are implemented that drive meaningful results and focuses on the areas that have the greatest impact.
 
-## Contact Us to learn more! 
+## [Contact Us](/contact-us/) to learn more! 

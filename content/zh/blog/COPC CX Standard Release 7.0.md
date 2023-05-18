@@ -10,7 +10,6 @@ tags:
     Omni Channel,
     websites,
     telephone,
-    COPC,
     channels,
     WeChat,
     Whatsapp,
