@@ -1,6 +1,6 @@
 ---
 layout: blog-single
-title: "Clienk Launches New ChatGPT-Powered Agent Support for Enhanced contact center"
+title: "Clienk Launches New ChatGPT-Powered Agent Support for Enhanced Contact Center CX"
 description: Clienk is proud to announce the launch of its new ChatGPT-powered agent support. With this new feature, Clienk customers can benefit from more efficient and effective contact center that's powered by the latest AI technology.
 tags:
   [
