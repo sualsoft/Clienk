@@ -230,5 +230,6 @@
     <!--end-->
 
     {{ partial "script.html"}}
+    {{ partial (printf "chat.%s.html" .Lang) }} 
   </body>
 </html>

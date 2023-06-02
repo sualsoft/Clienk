@@ -29,7 +29,7 @@ baseURL = 'https://clienk.com'
     footer_address = "Hong Kong <br> Shanghai <br> Singapore"
     btn = "Request A Demo"
     btn_link = "request-a-demo"
-
+    
   [languages.zh.params]
     footer_subtitle = "人工智能驱动的联系中心，为您的所有客户服务提供支持。"
     footer_title = "一个更好的方式去吸引和留住客户"
