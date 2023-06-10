@@ -98,7 +98,7 @@ details:
       image: /assets/img/home-agent-support.svg
       color: pink-color #blue-color, pink-color, orange-color,
       btn_link: ai-assist-chatbot/
-      btn_label: 客服教练
+      btn_label: AI聊天机器人
 
     - right: true #true or false
       title: 超过 150 份基于 COPC 的报告将揭示所有详细信息
