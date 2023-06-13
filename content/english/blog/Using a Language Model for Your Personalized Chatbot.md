@@ -22,6 +22,7 @@ tags:
     Shopee,
     Line,
     AI,
+    Chatbots,
   ]
 
 image: /assets/img/blog/chatgpt-language-model.jpg

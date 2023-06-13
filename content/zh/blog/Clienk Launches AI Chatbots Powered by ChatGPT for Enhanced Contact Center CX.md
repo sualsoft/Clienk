@@ -22,6 +22,7 @@ tags:
     OpenAI,
     AI,
     CX,
+    Chatbots,
   ]
 
 image: /assets/img/blog/clienk-openai-chatgpt.png

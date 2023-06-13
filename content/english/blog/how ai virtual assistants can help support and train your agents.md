@@ -17,6 +17,8 @@ tags:
     Facebook,
     Instagram,
     Line,
+    Chatbots,
+    OpenAI,
   ]
 
 image: /assets/img/blog/ai-customer-service-agent.webp
