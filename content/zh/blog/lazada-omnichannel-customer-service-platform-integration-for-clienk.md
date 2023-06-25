@@ -6,6 +6,7 @@ description: 通过网站、电话、移动应用程序、微信、Whatsapp、Fa
     Engage Customers,
     contact center,
     Lazada,
+    Shopee,
     Omni Channel,
     websites,
     telephone,
