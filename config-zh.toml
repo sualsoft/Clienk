@@ -46,5 +46,6 @@ baseURL = 'https://clienk.cn'
   priority = 0.75
 
 [taxonomies]
-  category = 'categories'
+  # comment out categories on July 17, 2023 (we are not using that)
+  #category = 'categories'
   tag = 'tags'
