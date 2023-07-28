@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # This script generates the Clienk website for hosting it in mainland China
-# We use the config file which will make zh as the main language, we generate the static files with hugo (should be installed and in path.
+# We use the config file which will make zh as the main language, we generate 
+# the static files with hugo (should be installed and in path.
 
 # The output is stored to /tmp and zipped
 # The zip file should be extracted on the host that serves clienk.cn
@@ -23,5 +24,5 @@ hugo -b https://clienk.cn -d /tmp/clienk.cn --config config-zh.toml
 # Clean up the generated site directory
 rm -rf /tmp/clienk.cn
 
-# Copy the file to website /tmp folder
+# Copy the file to webservers /tmp folder where the cronscript will pick it up
 scp /tmp/clienksitecn.zip root@clienk.cn:/tmp/.

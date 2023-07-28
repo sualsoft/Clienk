@@ -32,7 +32,7 @@ privacy:
 #### Clienk announces support for Llama 2, the next generation open-source large language model
 
 
-At Clienk, we are committed to providing our customers with the highest level of data security and cutting-edge AI capabilities. That's why we are thrilled to announce our support for Llama 2, the next generation open-source large language model. 
+At Clienk, we are committed to providing our customers with the highest level of data security and cutting-edge AI capabilities. That's why we are thrilled to announce our support for Llama 2, the next generation open-source large language model
 
 ### What is Llama 2?
 Llama 2 is an open-source large language model developed by [Meta](https://meta.org/) and supported by [Microsoft](https://www.micosoft.com/). It is designed to help developers and researchers like Clienk experiment, innovate, and create generative AI-powered experiences. Built on the advancements of AI technology, Llama 2 has the potential to revolutionize the way businesses interact with their customers and unlock new opportunities for economic and social growth.
