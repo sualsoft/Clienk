@@ -134,6 +134,12 @@ partners:
     - logo: /assets/img/partners/partners-5.png
       link: https://www.fugumobile.cn/
 
+    - logo: /assets/img/partners/valtech_logo.png
+      link: https://valtech.com
+
+    - logo: /assets/img/partners/salesforce-logo.webp
+      link: https://salesforce.com
+
     - logo: /assets/img/partners/partners-6.png
       link: https://it-consultis.com/
 
@@ -154,9 +160,6 @@ partners:
 
     - logo: /assets/img/partners/partners-12.png
       link: https://qpsoftware.net/
-
-    - logo: /assets/img/partners/partners-13.png
-      link: https://kawo.com/
 
     - logo: /assets/img/partners/partners-14.png
       link: https://www.tmogroup.com.cn/

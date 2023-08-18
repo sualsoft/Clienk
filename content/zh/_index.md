@@ -135,6 +135,12 @@ partners:
     - logo: /assets/img/partners/partners-5.png
       link: https://www.fugumobile.cn/
 
+    - logo: /assets/img/partners/valtech_logo.png
+      link: https://valtech.com
+
+    - logo: /assets/img/partners/salesforce-logo.webp
+      link: https://salesforce.com
+
     - logo: /assets/img/partners/partners-6.png
       link: https://it-consultis.com/
 
