@@ -146,6 +146,9 @@ partners:
     - logo: /assets/img/partners/partners-7.png
       link: https://www.jingdigital.com/
 
+    - logo: /assets/img/partners/dentsu-logo.png
+      link: https://www.dentsu.com/
+
     - logo: /assets/img/partners/partners-8.png
       link: https://www.kaytune.com.cn/
 
