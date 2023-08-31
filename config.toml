@@ -49,3 +49,7 @@ baseURL = 'https://clienk.com'
  # comment out categories on July 17, 2023 (we are not using that)
  # category = 'categories'
   tag = 'tags'
+
+[[redirects]]
+  from = "/blog/clienk-omni-channel-customer-service-platform"
+  to = "/blog/clienk-omni-channel-contact-center-platform"
